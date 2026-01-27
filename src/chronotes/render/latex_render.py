@@ -41,3 +41,20 @@ def render_day_page(data: DailyPageData, *, templates_dir: Path | None = None) -
     template = env.get_template("pagetemplate.tex.j2")
 
     return template.render(data=data)
+
+
+def render_document(pages: list[str], *, templates_dir: Path | None = None) -> str:
+    """
+    Pure wrapper: pages (already-rendered LaTeX fragments) -> full LaTeX document.
+    """
+    tdir = templates_dir or _default_templates_dir()
+    env = Environment(
+        loader=FileSystemLoader(str(tdir)),
+        undefined=StrictUndefined,
+        autoescape=False,
+        trim_blocks=True,
+        lstrip_blocks=True,
+    )
+    template = env.get_template("doctemplate.tex.j2")
+    body = "\n".join(pages)
+    return template.render(body=body)
