@@ -16,7 +16,7 @@ geo = ["geopy>=2.4"]
 sky = ["skyfield>=1.49"]
 
 [project.scripts]
-chronotes = "chronotes.cli.main:app"
+chronotes = "chronotes.cli.main:main"
 
 [build-system]
 requires = ["hatchling>=1.28.0"]
@@ -37,3 +37,4 @@ target-version = "py312"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+addopts = "-p no:langsmith -p no:docker -p no:anyio"
