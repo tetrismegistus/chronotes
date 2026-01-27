@@ -1,5 +1,10 @@
-
 # chronotes — setup
+
+chronotes is a personal-first, professional-quality journal generator that produces LaTeX (and optionally PDF) daily pages spanning months or years. It integrates solar markers, planetary hours, and lunar phase data into a print-ready layout.
+
+**Design rule:** Python owns *data and structure*. LaTeX owns *layout*.
+
+---
 
 ## Prerequisites
 - Python **3.12+**
@@ -36,7 +41,7 @@ If all three work, the project is correctly installed.
 
 ## Fallback path (no uv)
 
-If you don’t want uv, this project still installs cleanly using standard tooling.
+If you don’t want to use `uv`, the project still installs cleanly with standard tooling.
 
 ```bash
 python3.12 -m venv .venv
@@ -56,6 +61,89 @@ pytest
 
 ---
 
+## Example CLI usage
+
+All commands write **LaTeX to stdout**. Redirect output to a file as needed.
+
+---
+
+### Primary workflow (city-based, implicit geocoding)
+
+Use a city name as the primary location input.  
+When coordinates are not supplied, geocoding is performed automatically.
+
+```bash
+chronotes render-year \
+  --city "Indianapolis, IN" \
+  --user-agent "chronotes/0.1 (you@example.com)" \
+  --tz America/Indiana/Indianapolis \
+  --year 2026 \
+  > 2026.tex
+```
+
+Notes:
+- `--user-agent` is required when using `--city` (Nominatim policy)
+- Network IO occurs only in this mode
+- No filesystem writes occur inside the tool
+
+---
+
+### Fallback / explicit workflow (lat/lon override)
+
+Use explicit coordinates to bypass geocoding entirely.
+
+```bash
+chronotes render-year \
+  --lat 39.7684 \
+  --lon -86.1581 \
+  --tz America/Indiana/Indianapolis \
+  --year 2026 \
+  > 2026.tex
+```
+
+Notes:
+- `--lat` and `--lon` must be provided together
+- When coordinates are supplied, `--city` is optional and used only as a printed label
+- This path performs **no network IO**
+
+---
+
+### Debug / development workflow (single day)
+
+Render a single day using explicit markers.  
+No providers, no network access, no filesystem writes.
+
+```bash
+chronotes render-day \
+  --city "Indianapolis, IN" \
+  --day 2026-01-27 \
+  --day-ruler-key sun \
+  --moon-phase "Waxing Crescent" \
+  --sunrise 2026-01-27T07:55:00 \
+  --solar-noon 2026-01-27T13:20:00 \
+  --sunset 2026-01-27T17:45:00 \
+  --next-sunrise 2026-01-28T07:54:00
+```
+
+This command exists primarily for testing, layout iteration, and debugging.
+
+---
+
+## Location resolution rules
+
+Location resolution follows a strict precedence:
+
+1. **Explicit coordinates** (`--lat` + `--lon`)  
+   → Always win; no geocoding performed.
+2. **City name** (`--city`)  
+   → Geocoded automatically (requires `--user-agent`).
+3. **Neither provided**  
+   → Error.
+
+This policy is enforced centrally and consistently across commands.
+
+---
+
 ## Optional dependencies
 
 ### Geocoding support
@@ -70,8 +158,7 @@ or (pip):
 pip install -e "[dev,geo]"
 ```
 
-
-or (pip):
+### Skyfield astronomy backend (optional)
 
 ```bash
 pip install -e "[dev,sky]"
@@ -87,8 +174,6 @@ pip install -e "[dev,sky]"
 - `services/` — pure domain logic
 - `tests/` — unit + contract tests
 
-**Design rule:** Python owns *data and structure*. LaTeX owns *layout*.
-
 ---
 
 ## Common failure modes
@@ -98,10 +183,17 @@ pip install -e "[dev,sky]"
 - Or you installed without `-e` in the fallback path
 
 ### `ruff` / `pytest` missing
-- You didn’t include dev dependencies
-  - use `uv sync --all-groups` or `pip install -e "[dev]"`
+- You didn’t include dev dependencies  
+  Use:
+  ```bash
+  uv sync --all-groups
+  ```
+  or:
+  ```bash
+  pip install -e "[dev]"
+  ```
 
-### pytest loads random plugins
+### pytest loads unexpected plugins
 Run tests with isolation:
 
 ```bash
@@ -110,12 +202,4 @@ PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 uv run pytest
 
 ---
 
-## Sanity reset (if things get weird)
-
-```bash
-rm -rf .venv
-uv sync --all-groups
-```
-
----
-
+## San
