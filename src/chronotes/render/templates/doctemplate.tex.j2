@@ -1,61 +1,46 @@
 \documentclass[twoside,12pt]{exam}
-
 \usepackage{booktabs}
 \usepackage{wasysym}
 \usepackage{caption}
 \captionsetup{labelformat=empty}
-
-% Layout / typography
-\usepackage{geometry}
-\geometry{margin=1in}
-
-\usepackage{setspace}
-\onehalfspacing
-
-\usepackage{titlesec}
-\usepackage{emptypage} % no headers/footers on blank pages
-
 \chead{}
 
 \begin{document}
 
 % ======================
-% Cover Page
+% Cover Page (layout-neutral)
 % ======================
+\begingroup
 \thispagestyle{empty}
+\pagenumbering{gobble}
 
 \vspace*{2in}
-
 \begin{center}
-    {\LARGE\bfseries Chronotes}\\[1.5em]
-
-    {\large A ritual journal}\\[3em]
+    {\LARGE\bfseries Chronotes}\par
+    \vspace{1.5em}
+    {\large A ritual journal}\par
+    \vspace{3em}
 
     {\normalsize
-    This journal was created for my own daily ritual practice—\\
-    a structured space for observing time, attention, and intention.\\[1em]
+    This journal was created for my own ritual use: a structured space to track
+    time, attention, and intention.\par
+    \vspace{1em}
+    I’m making it available to others who may find value in the same rhythms and constraints.\par}
+    \vspace{4em}
 
-    It is made available for others who may find value\\
-    in the same rhythms and constraints.}
-    \\[4em]
-
-    {\normalsize Aric Maddux}
+    {\normalsize Aric Maddux}\par
 \end{center}
 
 \vfill
-
 \begin{center}
-    {\small
-    Generated with \textit{chronotes}.\\
-    All astronomical data is location- and time-specific.}
+    {\small Generated with \textit{chronotes}.}
 \end{center}
 
 \newpage
-\cleardoublepage
+\endgroup
 
-% ======================
-% Journal Body
-% ======================
+% Start journal body on next page; do not alter global layout.
 {{ body }}
 
 \end{document}
+:wq
