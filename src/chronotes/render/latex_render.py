@@ -13,13 +13,6 @@ def _default_templates_dir() -> Path:
     return Path(__file__).resolve().parent / "templates"
 
 
-def _to_template_obj(data: Any) -> Any:
-    # Keep it simple: dataclasses -> dict. Otherwise pass through.
-    if is_dataclass(data):
-        return asdict(data)
-    return data
-
-
 def _fmt_time(dt) -> str:
     # Avoid timezone surprises in tests: format is stable.
     return dt.strftime("%H:%M")
@@ -46,4 +39,5 @@ def render_day_page(data: DailyPageData, *, templates_dir: Path | None = None) -
     env.filters["fmt_date"] = _fmt_date
 
     template = env.get_template("pagetemplate.tex.j2")
-    return template.render(data=_to_template_obj(data))
+
+    return template.render(data=data)

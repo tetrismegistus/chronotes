@@ -1,0 +1,46 @@
+% chronotes daily page (render/templates/pagetemplate.tex.j2)
+
+\lhead{ {{ data.city }} \\ {{ data.day | fmt_date }} {{ data.day_ruler.name }} }
+\rhead{Phase: {{ data.moon_phase }} \\ Solar Noon: {{ data.markers.solar_noon | fmt_time }} }
+\pagenumbering{gobble}
+
+\begin{table}[ht]
+\medskip
+\caption{Planetary Hours}
+\centering
+  \begin{tabular}{lll}
+    &Day Rulers&\\
+    \toprule
+    Ruler&Start&End\\
+    \midrule
+    {% for h in data.hours.day %}
+    {{ h.ruler.name }} & {{ h.start | fmt_time }} & {{ h.end | fmt_time }} \\
+    {% endfor %}
+    \bottomrule
+  \end{tabular}
+  \quad
+  \begin{tabular}{lll}
+    &Night Rulers&\\
+    \toprule
+    Ruler&Start&End\\
+    \midrule
+    {% for h in data.hours.night %}
+    {{ h.ruler.name }} & {{ h.start | fmt_time }} & {{ h.end | fmt_time }} \\
+    {% endfor %}
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+\noindent
+Time:\\
+Weather Conditions:\\
+Emotions:\\
+Physical Condition:\\
+Ritual Performed:\\
+Performance:\\
+\fillwithgrid{3.8in}
+\newpage
+\pagenumbering{gobble}
+Results:\\
+\fillwithgrid{8.4in}
+\newpage
