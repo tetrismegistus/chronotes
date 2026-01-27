@@ -1,6 +1,6 @@
 % chronotes daily page (render/templates/pagetemplate.tex.j2)
 
-\lhead{ {{ data.city }} \\ {{ data.day | fmt_date }} {{ data.day_ruler.name }} }
+\lhead{ {{ data.city }} \\ {{ data.day | fmt_date }} {{ data.day_ruler.latex }} }
 \rhead{Phase: {{ data.moon_phase }} \\ Solar Noon: {{ data.markers.solar_noon | fmt_time }} }
 \pagenumbering{gobble}
 
@@ -14,7 +14,7 @@
     Ruler&Start&End\\
     \midrule
     {% for h in data.hours.day %}
-    {{ h.ruler.name }} & {{ h.start | fmt_time }} & {{ h.end | fmt_time }} \\
+    {{ h.ruler.latex }} & {{ h.start | fmt_time }} & {{ h.end | fmt_time }} \\
     {% endfor %}
     \bottomrule
   \end{tabular}
@@ -25,7 +25,7 @@
     Ruler&Start&End\\
     \midrule
     {% for h in data.hours.night %}
-    {{ h.ruler.name }} & {{ h.start | fmt_time }} & {{ h.end | fmt_time }} \\
+    {{ h.ruler.latex }} & {{ h.start | fmt_time }} & {{ h.end | fmt_time }} \\
     {% endfor %}
     \bottomrule
   \end{tabular}
