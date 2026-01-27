@@ -4,11 +4,14 @@ from datetime import date, datetime
 
 import typer
 
+from typing import Optional
+
 from chronotes.domain.models import DailyPageData, DayMarkers
 from chronotes.domain.planets import BY_KEY
 from chronotes.render.latex_render import render_day_page
 from chronotes.services.planetary_hours import build_planetary_hours
-
+from chronotes.providers.geocode_nominatim import NominatimGeocodeProvider
+from chronotes.services.location_resolution import resolve_location
 from chronotes.providers.astronomy_astral import AstralDayMarkersProvider
 from chronotes.providers.contracts import GeoPoint
 from chronotes.providers.moon_phase_simple import SimpleMoonPhaseProvider
@@ -99,17 +102,30 @@ def render_day(
 @app.command("render-range")
 def render_range(
     *,
-    city: str = typer.Option(...),
+    city: Optional[str] = typer.Option(None),
     tz: str = typer.Option(..., help="IANA timezone, e.g. America/Indiana/Indianapolis"),
-    lat: float = typer.Option(...),
-    lon: float = typer.Option(...),
+    lat: Optional[float] = typer.Option(None),
+    lon: Optional[float] = typer.Option(None),
+    geocode: bool = typer.Option(False, "--geocode", help="Enable city->lat/lon via Nominatim."),
+    user_agent: Optional[str] = typer.Option(None, "--user-agent", help="User-Agent for Nominatim (required if --geocode)."),
     start: str = typer.Option(..., help="ISO date, e.g. 2026-01-01"),
     end: str = typer.Option(..., help="ISO date, e.g. 2026-12-31"),
 ) -> None:
     start_d = _parse_date(start)
     end_d = _parse_date(end)
 
-    ctx = BuildContext(city=city, point=GeoPoint(lat=lat, lon=lon), tz=tz)
+    geocoder = None
+    if geocode:
+        if not user_agent:
+            raise typer.BadParameter("--user-agent is required when --geocode is set.")
+        geocoder = NominatimGeocodeProvider(user_agent=user_agent)
+
+    try:
+        loc = resolve_location(city=city, lat=lat, lon=lon, geocoder=geocoder)
+    except ValueError as e:
+        raise typer.BadParameter(str(e)) from e
+
+    ctx = BuildContext(city=loc.city_label, point=loc.point, tz=tz)
 
     days = build_range(
         ctx=ctx,
@@ -118,22 +134,57 @@ def render_range(
         markers_provider=AstralDayMarkersProvider(),
         moon_provider=SimpleMoonPhaseProvider(),
     )
-
     typer.echo(render_document_from_days(days))
+
+
+from typing import Optional
+
+from chronotes.providers.geocode_nominatim import NominatimGeocodeProvider
+from chronotes.services.location_resolution import resolve_location
 
 
 @app.command("render-year")
 def render_year(
     *,
-    city: str = typer.Option(...),
+    city: Optional[str] = typer.Option(
+        None,
+        help="City label to print; if no --lat/--lon are provided, this is also the geocoding query.",
+    ),
     tz: str = typer.Option(..., help="IANA timezone, e.g. America/Indiana/Indianapolis"),
-    lat: float = typer.Option(...),
-    lon: float = typer.Option(...),
+    lat: Optional[float] = typer.Option(
+        None,
+        help="Latitude (optional). If provided, --lon is required. Overrides geocoding.",
+    ),
+    lon: Optional[float] = typer.Option(
+        None,
+        help="Longitude (optional). If provided, --lat is required. Overrides geocoding.",
+    ),
+    geocode: bool = typer.Option(
+        False,
+        "--geocode",
+        help="Enable city -> lat/lon lookup via Nominatim (network).",
+    ),
+    user_agent: Optional[str] = typer.Option(
+        None,
+        "--user-agent",
+        help="User-Agent for Nominatim (required if --geocode).",
+    ),
     year: int = typer.Option(..., help="Year, e.g. 2026"),
 ) -> None:
     start_d, end_d = year_bounds(year)
 
-    ctx = BuildContext(city=city, point=GeoPoint(lat=lat, lon=lon), tz=tz)
+    geocoder = None
+    if geocode:
+        if not user_agent:
+            raise typer.BadParameter("--user-agent is required when --geocode is set.")
+        geocoder = NominatimGeocodeProvider(user_agent=user_agent)
+
+    try:
+        loc = resolve_location(city=city, lat=lat, lon=lon, geocoder=geocoder)
+    except ValueError as e:
+        raise typer.BadParameter(str(e)) from e
+
+    ctx = BuildContext(city=loc.city_label, point=loc.point, tz=tz)
 
     days = build_range(
         ctx=ctx,
@@ -144,6 +195,7 @@ def render_year(
     )
 
     typer.echo(render_document_from_days(days))
+
 
 
 def main() -> None:
