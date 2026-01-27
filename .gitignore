@@ -6,6 +6,19 @@ __pycache__/
 # C extensions
 *.so
 
+# Generated LaTeX output (journal builds)
+*.tex
+
+# LaTeX build artifacts (if/when PDF compilation is added)
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+
 # Distribution / packaging
 .Python
 build/
