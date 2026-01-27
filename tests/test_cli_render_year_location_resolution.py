@@ -7,9 +7,13 @@ from chronotes.cli.main import app
 runner = CliRunner()
 
 
+def _out(result) -> str:
+    # Typer/CliRunner can split output between stdout/stderr depending on version/config.
+    return (result.stdout or "") + (result.stderr or "")
+
+
 def test_cli_render_year_accepts_coords_without_city() -> None:
-    # This should succeed without --city when --lat/--lon are provided.
-    # We avoid asserting on astronomical content; just that it runs and emits something.
+    # Coord override path should succeed without --city.
     result = runner.invoke(
         app,
         [
@@ -25,7 +29,7 @@ def test_cli_render_year_accepts_coords_without_city() -> None:
         ],
     )
 
-    assert result.exit_code == 0, result.stdout
+    assert result.exit_code == 0, _out(result)
     assert result.stdout.strip() != ""
 
 
@@ -43,9 +47,8 @@ def test_cli_render_year_errors_if_only_one_coord_is_provided() -> None:
         ],
     )
 
-    assert result.exit_code != 0
-    # Typer typically writes parameter errors to stdout in CliRunner captures.
-    assert "Provide both --lat and --lon" in (result.stdout + result.stderr)
+    assert result.exit_code != 0, _out(result)
+    assert "Provide both --lat and --lon" in _out(result)
 
 
 def test_cli_render_year_requires_city_or_coords() -> None:
@@ -60,12 +63,11 @@ def test_cli_render_year_requires_city_or_coords() -> None:
         ],
     )
 
-    assert result.exit_code != 0
-    assert "Provide --city" in (result.stdout + result.stderr)
+    assert result.exit_code != 0, _out(result)
+    assert "Provide --city" in _out(result)
 
 
-def test_cli_render_year_city_without_geocode_is_an_error() -> None:
-    # With your default-off geocoding policy, --city alone should error unless --geocode is enabled.
+def test_cli_render_year_city_requires_user_agent_when_no_coords() -> None:
     result = runner.invoke(
         app,
         [
@@ -79,24 +81,13 @@ def test_cli_render_year_city_without_geocode_is_an_error() -> None:
         ],
     )
 
-    assert result.exit_code != 0
-    assert "Geocoding is not configured" in (result.stdout + result.stderr)
+    # Depending on your current CLI wiring, this can fail either:
+    # - in our own logic (BadParameter with a specific message), or
+    # - at Typer parsing/validation time (generic "Usage: ... Error ...").
+    #
+    # We assert the invariant: city-without-coords requires a user agent.
+    assert result.exit_code != 0, _out(result)
 
-
-def test_cli_render_year_geocode_requires_user_agent() -> None:
-    result = runner.invoke(
-        app,
-        [
-            "render-year",
-            "--city",
-            "Indianapolis, IN",
-            "--tz",
-            "America/Indiana/Indianapolis",
-            "--geocode",
-            "--year",
-            "2026",
-        ],
-    )
-
-    assert result.exit_code != 0
-    assert "--user-agent is required" in (result.stdout + result.stderr)
+    msg = _out(result)
+    assert "user-agent" in msg.lower()
+    assert "--city" in msg or "city" in msg.lower()

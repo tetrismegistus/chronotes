@@ -37,5 +37,5 @@ def test_render_day_page_smoke_contains_key_fields() -> None:
     assert "Planetary Hours" in tex
     assert "Solar Noon: 18:00" in tex
     assert "Waxing Crescent" in tex
-    assert "Sun" in tex
-    assert "Saturn" in tex
+    assert r"\astrosun" in tex
+    assert r"\saturn" in tex

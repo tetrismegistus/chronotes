@@ -106,8 +106,7 @@ def render_range(
     tz: str = typer.Option(..., help="IANA timezone, e.g. America/Indiana/Indianapolis"),
     lat: Optional[float] = typer.Option(None),
     lon: Optional[float] = typer.Option(None),
-    geocode: bool = typer.Option(False, "--geocode", help="Enable city->lat/lon via Nominatim."),
-    user_agent: Optional[str] = typer.Option(None, "--user-agent", help="User-Agent for Nominatim (required if --geocode)."),
+    user_agent: Optional[str] = typer.Option(None, "--user-agent", help="User-Agent for geocoding (required when using --city without --lat/--lon)."),
     start: str = typer.Option(..., help="ISO date, e.g. 2026-01-01"),
     end: str = typer.Option(..., help="ISO date, e.g. 2026-12-31"),
 ) -> None:
@@ -115,10 +114,7 @@ def render_range(
     end_d = _parse_date(end)
 
     geocoder = None
-    if geocode:
-        if not user_agent:
-            raise typer.BadParameter("--user-agent is required when --geocode is set.")
-        geocoder = NominatimGeocodeProvider(user_agent=user_agent)
+    geocoder = NominatimGeocodeProvider(user_agent=user_agent)
 
     try:
         loc = resolve_location(city=city, lat=lat, lon=lon, geocoder=geocoder)
