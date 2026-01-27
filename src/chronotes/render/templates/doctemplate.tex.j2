@@ -1,9 +1,61 @@
 \documentclass[twoside,12pt]{exam}
+
 \usepackage{booktabs}
 \usepackage{wasysym}
 \usepackage{caption}
 \captionsetup{labelformat=empty}
+
+% Layout / typography
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\usepackage{setspace}
+\onehalfspacing
+
+\usepackage{titlesec}
+\usepackage{emptypage} % no headers/footers on blank pages
+
 \chead{}
+
 \begin{document}
+
+% ======================
+% Cover Page
+% ======================
+\thispagestyle{empty}
+
+\vspace*{2in}
+
+\begin{center}
+    {\LARGE\bfseries Chronotes}\\[1.5em]
+
+    {\large A ritual journal}\\[3em]
+
+    {\normalsize
+    This journal was created for my own daily ritual practice—\\
+    a structured space for observing time, attention, and intention.\\[1em]
+
+    It is made available for others who may find value\\
+    in the same rhythms and constraints.}
+    \\[4em]
+
+    {\normalsize Aric Maddux}
+\end{center}
+
+\vfill
+
+\begin{center}
+    {\small
+    Generated with \textit{chronotes}.\\
+    All astronomical data is location- and time-specific.}
+\end{center}
+
+\newpage
+\cleardoublepage
+
+% ======================
+% Journal Body
+% ======================
 {{ body }}
+
 \end{document}
