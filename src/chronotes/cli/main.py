@@ -9,6 +9,13 @@ from chronotes.domain.planets import BY_KEY
 from chronotes.render.latex_render import render_day_page
 from chronotes.services.planetary_hours import build_planetary_hours
 
+from chronotes.providers.astronomy_astral import AstralDayMarkersProvider
+from chronotes.providers.contracts import GeoPoint
+from chronotes.providers.moon_phase_stub import StubMoonPhaseProvider
+from chronotes.render.latex_render import render_document_from_days
+from chronotes.services.day_builder import BuildContext, build_range
+
+
 app = typer.Typer(no_args_is_help=True)
 
 
@@ -94,3 +101,29 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+
+@app.command("render-range")
+def render_range(
+    *,
+    city: str = typer.Option(...),
+    tz: str = typer.Option(..., help="IANA timezone, e.g. America/Indiana/Indianapolis"),
+    lat: float = typer.Option(...),
+    lon: float = typer.Option(...),
+    start: str = typer.Option(..., help="ISO date, e.g. 2026-01-01"),
+    end: str = typer.Option(..., help="ISO date, e.g. 2026-12-31"),
+) -> None:
+    start_d = _parse_date(start)
+    end_d = _parse_date(end)
+
+    ctx = BuildContext(city=city, point=GeoPoint(lat=lat, lon=lon), tz=tz)
+
+    days = build_range(
+        ctx=ctx,
+        start=start_d,
+        end=end_d,
+        markers_provider=AstralDayMarkersProvider(),
+        moon_provider=StubMoonPhaseProvider(),
+    )
+
+    typer.echo(render_document_from_days(days))
