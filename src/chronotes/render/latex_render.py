@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from dataclasses import asdict, is_dataclass
+from collections.abc import Sequence
 from pathlib import Path
 from typing import Any
 
@@ -58,3 +59,14 @@ def render_document(pages: list[str], *, templates_dir: Path | None = None) -> s
     template = env.get_template("doctemplate.tex.j2")
     body = "\n".join(pages)
     return template.render(body=body)
+
+
+def render_document_from_days(
+    days: Sequence[DailyPageData], *, templates_dir: Path | None = None
+) -> str:
+    """
+    Pure convenience: DailyPageData[] -> full LaTeX document.
+    Renders each day page via pagetemplate, then wraps via doctemplate.
+    """
+    pages = [render_day_page(d, templates_dir=templates_dir) for d in days]
+    return render_document(pages, templates_dir=templates_dir)
