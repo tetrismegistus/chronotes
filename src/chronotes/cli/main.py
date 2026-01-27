@@ -159,24 +159,22 @@ def render_year(
         None,
         help="Longitude (optional). If provided, --lat is required. Overrides geocoding.",
     ),
-    geocode: bool = typer.Option(
-        False,
-        "--geocode",
-        help="Enable city -> lat/lon lookup via Nominatim (network).",
-    ),
     user_agent: Optional[str] = typer.Option(
         None,
         "--user-agent",
-        help="User-Agent for Nominatim (required if --geocode).",
+        help="User-Agent for Nominatim (required when using --city without coords).",
     ),
     year: int = typer.Option(..., help="Year, e.g. 2026"),
 ) -> None:
     start_d, end_d = year_bounds(year)
 
+    # Implicit geocoding: if coords are not provided and city is provided, geocode.
     geocoder = None
-    if geocode:
+    if lat is None and lon is None and city:
         if not user_agent:
-            raise typer.BadParameter("--user-agent is required when --geocode is set.")
+            raise typer.BadParameter(
+                "--user-agent is required when using --city without --lat/--lon."
+            )
         geocoder = NominatimGeocodeProvider(user_agent=user_agent)
 
     try:
