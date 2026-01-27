@@ -11,7 +11,7 @@ from chronotes.services.planetary_hours import build_planetary_hours
 
 from chronotes.providers.astronomy_astral import AstralDayMarkersProvider
 from chronotes.providers.contracts import GeoPoint
-from chronotes.providers.moon_phase_stub import StubMoonPhaseProvider
+from chronotes.providers.moon_phase_simple import SimpleMoonPhaseProvider
 from chronotes.render.latex_render import render_document_from_days
 from chronotes.services.day_builder import BuildContext, build_range
 from chronotes.services.date_ranges import year_bounds
@@ -116,7 +116,7 @@ def render_range(
         start=start_d,
         end=end_d,
         markers_provider=AstralDayMarkersProvider(),
-        moon_provider=StubMoonPhaseProvider(),
+        moon_provider=SimpleMoonPhaseProvider(),
     )
 
     typer.echo(render_document_from_days(days))
@@ -140,7 +140,7 @@ def render_year(
         start=start_d,
         end=end_d,
         markers_provider=AstralDayMarkersProvider(),
-        moon_provider=StubMoonPhaseProvider(),
+        moon_provider=SimpleMoonPhaseProvider(),
     )
 
     typer.echo(render_document_from_days(days))
