@@ -1,46 +1,52 @@
 % chronotes daily page (render/templates/pagetemplate.tex.j2)
 
-\lhead{ {{ data.city }} \\ {{ data.day | fmt_date }} {{ data.day_ruler.latex }} }
-\rhead{Phase: {{ data.moon_phase }} \\ Solar Noon: {{ data.markers.solar_noon | fmt_time }} }
+% Make headers smaller (they eat vertical budget)
+\lhead{\small {{ data.city }} \\ {{ data.day | fmt_date }} {{ data.day_ruler.latex }}}
+\rhead{\small Phase: {{ data.moon_phase }} \\ Solar Noon: {{ data.markers.solar_noon | fmt_time }}}
+
+% No folios
 \pagenumbering{gobble}
 
-\begin{table}[ht]
-\medskip
-\caption{Planetary Hours}
-\centering
-  \begin{tabular}{lll}
-    &Day Rulers&\\
-    \toprule
-    Ruler&Start&End\\
-    \midrule
-    {% for h in data.hours.day %}
-    {{ h.ruler.latex }} & {{ h.start | fmt_time }} & {{ h.end | fmt_time }} \\
-    {% endfor %}
-    \bottomrule
-  \end{tabular}
-  \quad
-  \begin{tabular}{lll}
-    &Night Rulers&\\
-    \toprule
-    Ruler&Start&End\\
-    \midrule
-    {% for h in data.hours.night %}
-    {{ h.ruler.latex }} & {{ h.start | fmt_time }} & {{ h.end | fmt_time }} \\
-    {% endfor %}
-    \bottomrule
-  \end{tabular}
-\end{table}
+% --- aggressive compaction for this page only ---
+\begingroup
+\small
+\setlength{\tabcolsep}{4pt}     % default ~6pt
+\renewcommand{\arraystretch}{0.92}
 
+% Two fixed-width columns to FORCE side-by-side
 \noindent
-Time:\\
-Weather Conditions:\\
-Emotions:\\
-Physical Condition:\\
-Ritual Performed:\\
-Performance:\\
-\fillwithgrid{3.8in}
-\newpage
-\pagenumbering{gobble}
-Results:\\
-\fillwithgrid{8.4in}
+\begin{minipage}[t]{0.49\linewidth}
+\centering
+\textbf{Day}\par
+\vspace{0.15em}
+\scriptsize
+\begin{tabular}{lll}
+\toprule
+Ruler & Start & End\\
+\midrule
+{% for h in data.hours.day %}
+{{ h.ruler.latex }} & {{ h.start | fmt_time }} & {{ h.end | fmt_time }} \\
+{% endfor %}
+\bottomrule
+\end{tabular}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.49\linewidth}
+\centering
+\textbf{Night}\par
+\vspace{0.15em}
+\scriptsize
+\begin{tabular}{lll}
+\toprule
+Ruler & Start & End\\
+\midrule
+{% for h in data.hours.night %}
+{{ h.ruler.latex }} & {{ h.start | fmt_time }} & {{ h.end | fmt_time }} \\
+{% endfor %}
+\bottomrule
+\end{tabular}
+\end{minipage}
+\vspace{0.23em}
+% Grid: increased height; squares sized globally via \gridsize in doctemplate
+\graphpaper{4.4125in}
+\endgroup
 \newpage

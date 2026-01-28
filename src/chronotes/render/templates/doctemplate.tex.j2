@@ -1,32 +1,115 @@
+% src/chronotes/render/templates/doctemplate.tex.j2
+
 \documentclass[twoside,12pt]{exam}
+
+% --- POD geometry: 6x9 trim, no bleed ---
+\usepackage[
+  paperwidth=6in,
+  paperheight=9in,
+  twoside,
+  inner=0.70in,
+  outer=0.70in,
+  bindingoffset=0.30in,
+  top=0.75in,
+  bottom=0.90in,
+  headheight=18pt,
+  headsep=18pt,
+  footskip=24pt,
+  includehead,
+  includefoot
+]{geometry}
+
+\usepackage{graphicx}
 \usepackage{booktabs}
 \usepackage{wasysym}
-\usepackage{caption}
-\captionsetup{labelformat=empty}
+\usepackage{tikz}
+
+\newlength{\gridW}
+\newlength{\gridH}
+
+\newcommand{\graphpaper}[1]{
+  \begingroup
+  \pgfmathsetlength{\gridW}{floor(\textwidth/\gridsize)*\gridsize}%
+  \pgfmathsetlength{\gridH}{floor(#1/\gridsize)*\gridsize}%
+  \par\noindent\centering
+  \begin{tikzpicture}
+    \draw[step=\gridsize, line width=0.3pt] (0,0) grid (\gridW,\gridH);
+    \draw[line width=0.3pt] (0,0) rectangle (\gridW,\gridH);
+  \end{tikzpicture}%
+  \par
+  \endgroup
+}
+
+
+% Print stability / quality
+\usepackage{microtype}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.30\baselineskip}
+
+% exam grid tuning
+\setlength{\gridsize}{0.15in}        % smaller squares
+\setlength{\gridlinewidth}{0.3pt}    % visible in print (optional if supported)
+
+% --- exam header/footer controls ---
+\pagestyle{headandfoot}
+\headrule
 \chead{}
+
+% Kill the default exam footer text ("Page") and any rule content
+\footrule
+\footer{}{}{}
+\runningfooter{}{}{}
+
+% Keep folios off (page counter still increments)
+\pagenumbering{gobble}
+
+% Force next major section to start on a recto (odd) page
+\newcommand{\rectostart}{
+  \clearpage
+  \ifodd\value{page}\else
+    \thispagestyle{empty}\hbox{}\newpage
+  \fi
+}
+
+
+{% raw %}
+% Full-page centered image, scaled to fit the text block
+\newcommand{\fullpageimage}[1]{
+  \clearpage
+  \thispagestyle{empty}
+  \begin{center}
+    \vspace*{\fill}
+    \includegraphics[
+      width=0.95\textwidth,
+      height=0.95\textheight,
+      keepaspectratio
+    ]{#1}
+    \vspace*{\fill}
+  \end{center}
+  \clearpage
+}
+{% endraw %}
 
 \begin{document}
 
 % ======================
-% Cover Page (layout-neutral)
+% Interior Title Page (recto)
 % ======================
-\begingroup
 \thispagestyle{empty}
-\pagenumbering{gobble}
 
 \vspace*{2in}
 \begin{center}
-    {\LARGE\bfseries Chronotes}\par
-    \vspace{1.5em}
+    {\LARGE\bfseries Book of Hours}\par
+    \vspace{1.2em}
     {\large A ritual journal}\par
-    \vspace{3em}
+    \vspace{2.5em}
 
     {\normalsize
     This journal was created for my own ritual use: a structured space to track
     time, attention, and intention.\par
-    \vspace{1em}
+    \vspace{0.9em}
     I’m making it available to others who may find value in the same rhythms and constraints.\par}
-    \vspace{4em}
+    \vspace{3.5em}
 
     {\normalsize Aric Maddux}\par
 \end{center}
@@ -37,10 +120,32 @@
 \end{center}
 
 \newpage
-\endgroup
 
-% Start journal body on next page; do not alter global layout.
+% ======================
+% "This journal belongs to" page (verso)
+% ======================
+\thispagestyle{empty}
+\vspace*{1.4in}
+\noindent\textbf{This journal belongs to:}\par
+\vspace{0.45in}
+\noindent\rule{0.9\linewidth}{0.6pt}\par
+\vspace{0.30in}
+\noindent\textbf{If found, please contact:}\par
+\vspace{0.45in}
+\noindent\rule{0.9\linewidth}{0.6pt}\par
+
+\newpage
+
+
+% Optional frontmatter art page (remove if not wanted)
+\fullpageimage{tree.png}
+
+% Enforce: Day 1 starts on recto
+\rectostart
+
+% ======================
+% Body
+% ======================
 {{ body }}
 
 \end{document}
-:wq
