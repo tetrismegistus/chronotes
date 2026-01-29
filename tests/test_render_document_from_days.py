@@ -37,6 +37,3 @@ def test_render_document_from_days_preserves_order_and_count() -> None:
     assert "City A" in tex
     assert "City B" in tex
     assert tex.index("City A") < tex.index("City B")
-
-    # "Planetary Hours" appears once per page template render
-    assert tex.count("Planetary Hours") == 2

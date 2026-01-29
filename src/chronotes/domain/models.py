@@ -2,7 +2,6 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from datetime import date, datetime
-from typing import Sequence
 
 from .planets import Planet
 
@@ -36,3 +35,11 @@ class DailyPageData:
     moon_phase: str
     markers: DayMarkers
     hours: PlanetaryHours
+
+
+@dataclass(frozen=True, slots=True)
+class SunSign:
+    key: str 
+    name: str
+    unicode: str
+    latex: str
