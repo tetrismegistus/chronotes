@@ -8,7 +8,7 @@ from chronotes.domain.models import DailyPageData
 from chronotes.domain.planets import WEEKDAY_RULERS
 from chronotes.providers.contracts import DayMarkersProvider, GeoPoint, MoonPhaseProvider
 from chronotes.services.planetary_hours import build_planetary_hours
-
+from chronotes.services.sun_sign import sun_sign_for_day
 
 @dataclass(frozen=True, slots=True)
 class BuildContext:
@@ -42,6 +42,7 @@ def build_daily_page_data(
     moon = moon_provider.get_phase_label(day=day, point=ctx.point, tz=ctx.tz)
     ruler = day_ruler_for(day)
     hours = build_planetary_hours(day_ruler=ruler, markers=markers)
+    sun_sign = sun_sign_for_day(day)
 
     return DailyPageData(
         city=ctx.city,
@@ -50,6 +51,7 @@ def build_daily_page_data(
         moon_phase=moon,
         markers=markers,
         hours=hours,
+        sun_sign=sun_sign
     )
 
 

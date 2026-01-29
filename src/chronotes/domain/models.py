@@ -35,6 +35,7 @@ class DailyPageData:
     moon_phase: str
     markers: DayMarkers
     hours: PlanetaryHours
+    sun_sign: SunSign | None = None
 
 
 @dataclass(frozen=True, slots=True)

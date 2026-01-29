@@ -5,7 +5,7 @@ from datetime import date, datetime, timedelta, timezone
 from chronotes.domain.models import DayMarkers
 from chronotes.providers.contracts import DayMarkersProvider, GeoPoint, MoonPhaseProvider
 from chronotes.services.day_builder import BuildContext, build_range
-
+from chronotes.domain.sunsigns import CAPRICORN
 
 class FakeMarkers(DayMarkersProvider):
     def get_markers(self, *, day: date, point: GeoPoint, tz: str) -> DayMarkers:
@@ -38,3 +38,4 @@ def test_build_range_count_and_order_and_hours_shape() -> None:
     assert all(d.moon_phase == "TestPhase" for d in days)
     assert all(len(d.hours.day) == 12 for d in days)
     assert all(len(d.hours.night) == 12 for d in days)
+    assert days[0].sun_sign == CAPRICORN
