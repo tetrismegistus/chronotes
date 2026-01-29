@@ -18,6 +18,7 @@ from chronotes.providers.moon_phase_simple import SimpleMoonPhaseProvider
 from chronotes.render.latex_render import render_document_from_days
 from chronotes.services.day_builder import BuildContext, build_range
 from chronotes.services.date_ranges import year_bounds
+from chronotes.services.sun_sign import sun_sign_for_day
 
 
 app = typer.Typer(no_args_is_help=True)
@@ -86,7 +87,7 @@ def render_day(
     )
 
     hours = build_planetary_hours(day_ruler=planet, markers=markers)
-
+    sun_sign = sun_sign_for_day(day_date)
     data = DailyPageData(
         city=city,
         day=day_date,
@@ -94,6 +95,7 @@ def render_day(
         moon_phase=moon_phase,
         markers=markers,
         hours=hours,
+        sun_sign=sun_sign
     )
 
     typer.echo(render_day_page(data))

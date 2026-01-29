@@ -1,7 +1,7 @@
 % chronotes daily page (render/templates/pagetemplate.tex.j2)
 
 % Make headers smaller (they eat vertical budget)
-\lhead{\small {{ data.city }} \\ {{ data.day | fmt_date }} {{ data.day_ruler.latex }}}
+\lhead{\small {{ data.city }} \\ {{ data.day | fmt_date }} {{data.sun_sign.latex}} {{ data.day_ruler.latex }}}
 \rhead{\small Phase: {{ data.moon_phase }} \\ Solar Noon: {{ data.markers.solar_noon | fmt_time }}}
 
 % No folios

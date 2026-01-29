@@ -5,7 +5,7 @@ from datetime import date, datetime, timezone
 from chronotes.domain.models import DailyPageData, DayMarkers, PlanetaryHour, PlanetaryHours
 from chronotes.domain.planets import SATURN, SUN
 from chronotes.render.latex_render import render_day_page
-
+from chronotes.services.sun_sign import sun_sign_for_day
 
 def test_render_day_page_smoke_contains_key_fields() -> None:
     tz = timezone.utc
@@ -20,7 +20,7 @@ def test_render_day_page_smoke_contains_key_fields() -> None:
     # cardinality is service-layer responsibility (already tested elsewhere).
     day_hours = (PlanetaryHour(ruler=SATURN, start=markers.sunrise, end=markers.solar_noon),)
     night_hours = (PlanetaryHour(ruler=SUN, start=markers.sunset, end=markers.next_sunrise),)
-
+    sun_sign = sun_sign_for_day(date(2026, 1, 27))
     data = DailyPageData(
         city="Indianapolis, IN",
         day=date(2026, 1, 27),
@@ -28,6 +28,7 @@ def test_render_day_page_smoke_contains_key_fields() -> None:
         moon_phase="Waxing Crescent",
         markers=markers,
         hours=PlanetaryHours(day=day_hours, night=night_hours),
+        sun_sign=sun_sign
     )
 
     tex = render_day_page(data)
@@ -38,3 +39,4 @@ def test_render_day_page_smoke_contains_key_fields() -> None:
     assert "Waxing Crescent" in tex
     assert r"\astrosun" in tex
     assert r"\saturn" in tex
+    assert r"\aquarius" in tex

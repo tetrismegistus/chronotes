@@ -9,6 +9,7 @@ from chronotes.domain.models import DailyPageData, DayMarkers
 from chronotes.domain.planets import SUN
 from chronotes.render.latex_render import render_day_page
 from chronotes.services.planetary_hours import build_planetary_hours
+from chronotes.services.sun_sign import sun_sign_for_day
 
 runner = CliRunner()
 
@@ -22,6 +23,7 @@ def test_cli_render_day_stdout_matches_renderer() -> None:
     )
 
     hours = build_planetary_hours(day_ruler=SUN, markers=markers)
+    sun_sign = sun_sign_for_day(date(2026, 1, 23))
     expected = render_day_page(
         DailyPageData(
             city="Indianapolis",
@@ -30,6 +32,7 @@ def test_cli_render_day_stdout_matches_renderer() -> None:
             moon_phase="Waxing Crescent",
             markers=markers,
             hours=hours,
+            sun_sign=sun_sign
         )
     )
 

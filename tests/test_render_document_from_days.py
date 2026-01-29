@@ -5,7 +5,7 @@ from datetime import date, datetime, timezone
 from chronotes.domain.models import DailyPageData, DayMarkers, PlanetaryHour, PlanetaryHours
 from chronotes.domain.planets import SATURN, SUN
 from chronotes.render.latex_render import render_document_from_days
-
+from chronotes.services.sun_sign import sun_sign_for_day
 
 def _page(city: str, d: date) -> DailyPageData:
     tz = timezone.utc
@@ -17,7 +17,7 @@ def _page(city: str, d: date) -> DailyPageData:
     )
     day_hours = (PlanetaryHour(ruler=SATURN, start=markers.sunrise, end=markers.solar_noon),)
     night_hours = (PlanetaryHour(ruler=SUN, start=markers.sunset, end=markers.next_sunrise),)
-
+    sun_sign = sun_sign_for_day(d)
     return DailyPageData(
         city=city,
         day=d,
@@ -25,6 +25,7 @@ def _page(city: str, d: date) -> DailyPageData:
         moon_phase="Waxing Crescent",
         markers=markers,
         hours=PlanetaryHours(day=day_hours, night=night_hours),
+        sun_sign=sun_sign
     )
 
 

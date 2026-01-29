@@ -11,7 +11,7 @@ VIRGO       = SunSign(key="virgo",       name="Virgo",       unicode="\u264D", l
 LIBRA       = SunSign(key="libra",       name="Libra",       unicode="\u264E", latex=r"\libra")
 SCORPIO     = SunSign(key="scorpio",     name="Scorpio",     unicode="\u264F", latex=r"\scorpio")
 SAGITTARIUS = SunSign(key="sagittarius", name="Sagittarius", unicode="\u2650", latex=r"\sagittarius")
-CAPRICORN   = SunSign(key="capricorn",   name="Capricorn",   unicode="\u2651", latex=r"\capricorn")
+CAPRICORN   = SunSign(key="capricorn",   name="Capricorn",   unicode="\u2651", latex=r"\capricornus")
 AQUARIUS    = SunSign(key="aquarius",    name="Aquarius",    unicode="\u2652", latex=r"\aquarius")
 PISCES      = SunSign(key="pisces",      name="Pisces",      unicode="\u2653", latex=r"\pisces")
 
