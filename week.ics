@@ -1,0 +1,2336 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//chronotes//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:a75edd90-24e4-53a4-a342-73ffaa05ba51@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260222T122755Z
+DTEND:20260222T132259Z
+SUMMARY:Sun — Day Hour 1
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Day\nHour: 1/12\nPlanet: Sun (sun)\nSunrise: 2026-02-22T07:2
+ 7:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset: 2026-02-
+ 22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.407089-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:ef7cf58b-0958-5956-8271-22e6a128d68e@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260222T132259Z
+DTEND:20260222T141803Z
+SUMMARY:Venus — Day Hour 2
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Day\nHour: 2/12\nPlanet: Venus (venus)\nSunrise: 2026-02-22T
+ 07:27:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset: 2026
+ -02-22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.407089-05:
+ 00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:4b58ebec-4b4a-5f87-961a-bd4ccc3b86f4@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260222T141803Z
+DTEND:20260222T151307Z
+SUMMARY:Mercury — Day Hour 3
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Day\nHour: 3/12\nPlanet: Mercury (mercury)\nSunrise: 2026-02
+ -22T07:27:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset: 
+ 2026-02-22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.407089
+ -05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:2ea2cda5-972f-5486-9a51-8975758e9ab6@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260222T151307Z
+DTEND:20260222T160811Z
+SUMMARY:Moon — Day Hour 4
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Day\nHour: 4/12\nPlanet: Moon (moon)\nSunrise: 2026-02-22T07
+ :27:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset: 2026-0
+ 2-22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.407089-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:b96390f6-fde0-5d68-94ae-82a374c772f3@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260222T160811Z
+DTEND:20260222T170315Z
+SUMMARY:Saturn — Day Hour 5
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Day\nHour: 5/12\nPlanet: Saturn (saturn)\nSunrise: 2026-02-2
+ 2T07:27:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset: 20
+ 26-02-22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.407089-0
+ 5:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:7dbee669-b17e-5a72-ba00-b750b73d451f@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260222T170315Z
+DTEND:20260222T175819Z
+SUMMARY:Jupiter — Day Hour 6
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Day\nHour: 6/12\nPlanet: Jupiter (jupiter)\nSunrise: 2026-02
+ -22T07:27:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset: 
+ 2026-02-22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.407089
+ -05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:8cc10de8-2ea8-5265-b407-fad1fd2b4b42@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260222T175819Z
+DTEND:20260222T185323Z
+SUMMARY:Mars — Day Hour 7
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Day\nHour: 7/12\nPlanet: Mars (mars)\nSunrise: 2026-02-22T07
+ :27:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset: 2026-0
+ 2-22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.407089-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:3c54a26c-964f-56d2-8879-a65622630bce@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260222T185323Z
+DTEND:20260222T194827Z
+SUMMARY:Sun — Day Hour 8
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Day\nHour: 8/12\nPlanet: Sun (sun)\nSunrise: 2026-02-22T07:2
+ 7:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset: 2026-02-
+ 22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.407089-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:629f47ea-68f4-5486-95c4-62c5e1bc52ac@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260222T194827Z
+DTEND:20260222T204331Z
+SUMMARY:Venus — Day Hour 9
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Day\nHour: 9/12\nPlanet: Venus (venus)\nSunrise: 2026-02-22T
+ 07:27:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset: 2026
+ -02-22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.407089-05:
+ 00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:488cefab-4226-5e0a-8b83-ef8194d02f40@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260222T204331Z
+DTEND:20260222T213835Z
+SUMMARY:Mercury — Day Hour 10
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Day\nHour: 10/12\nPlanet: Mercury (mercury)\nSunrise: 2026-0
+ 2-22T07:27:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset:
+  2026-02-22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.40708
+ 9-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:9a1de5ef-d81c-57ef-85f3-cdf75901d29c@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260222T213835Z
+DTEND:20260222T223339Z
+SUMMARY:Moon — Day Hour 11
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Day\nHour: 11/12\nPlanet: Moon (moon)\nSunrise: 2026-02-22T0
+ 7:27:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset: 2026-
+ 02-22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.407089-05:0
+ 0
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:3f35b8a5-eae5-5d3b-a92b-ecccb02d04f5@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260222T223339Z
+DTEND:20260222T232847Z
+SUMMARY:Saturn — Day Hour 12
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Day\nHour: 12/12\nPlanet: Saturn (saturn)\nSunrise: 2026-02-
+ 22T07:27:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset: 2
+ 026-02-22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.407089-
+ 05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:cce3b334-ca6b-5af0-8bf5-d7073cb3e392@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260222T232847Z
+DTEND:20260223T003335Z
+SUMMARY:Jupiter — Night Hour 1
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Night\nHour: 1/12\nPlanet: Jupiter (jupiter)\nSunrise: 2026-
+ 02-22T07:27:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset
+ : 2026-02-22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.4070
+ 89-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:57b69c14-07ed-53ac-b306-4f4dd2cf4c4e@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T003335Z
+DTEND:20260223T013823Z
+SUMMARY:Mars — Night Hour 2
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Night\nHour: 2/12\nPlanet: Mars (mars)\nSunrise: 2026-02-22T
+ 07:27:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset: 2026
+ -02-22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.407089-05:
+ 00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:687d0ad0-c118-5404-b4eb-0c77c613c434@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T013823Z
+DTEND:20260223T024311Z
+SUMMARY:Sun — Night Hour 3
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Night\nHour: 3/12\nPlanet: Sun (sun)\nSunrise: 2026-02-22T07
+ :27:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset: 2026-0
+ 2-22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.407089-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:e9caaa32-b741-5755-b06d-4d9bc65fff0c@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T024311Z
+DTEND:20260223T034759Z
+SUMMARY:Venus — Night Hour 4
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Night\nHour: 4/12\nPlanet: Venus (venus)\nSunrise: 2026-02-2
+ 2T07:27:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset: 20
+ 26-02-22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.407089-0
+ 5:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:0dc91e04-7b8b-5484-941f-ecaf062e6890@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T034759Z
+DTEND:20260223T045247Z
+SUMMARY:Mercury — Night Hour 5
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Night\nHour: 5/12\nPlanet: Mercury (mercury)\nSunrise: 2026-
+ 02-22T07:27:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset
+ : 2026-02-22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.4070
+ 89-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:2399fe38-e88f-522b-be29-7907f6e50649@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T045247Z
+DTEND:20260223T055735Z
+SUMMARY:Moon — Night Hour 6
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Night\nHour: 6/12\nPlanet: Moon (moon)\nSunrise: 2026-02-22T
+ 07:27:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset: 2026
+ -02-22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.407089-05:
+ 00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:b068634b-720c-50a2-8761-cbae3ff4198b@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T055735Z
+DTEND:20260223T070223Z
+SUMMARY:Saturn — Night Hour 7
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Night\nHour: 7/12\nPlanet: Saturn (saturn)\nSunrise: 2026-02
+ -22T07:27:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset: 
+ 2026-02-22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.407089
+ -05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:143054e1-8fbb-5cea-9437-abd1a6313af4@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T070223Z
+DTEND:20260223T080711Z
+SUMMARY:Jupiter — Night Hour 8
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Night\nHour: 8/12\nPlanet: Jupiter (jupiter)\nSunrise: 2026-
+ 02-22T07:27:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset
+ : 2026-02-22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.4070
+ 89-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:4e8d7f47-85a5-545c-a05b-38145cd5c844@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T080711Z
+DTEND:20260223T091159Z
+SUMMARY:Mars — Night Hour 9
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Night\nHour: 9/12\nPlanet: Mars (mars)\nSunrise: 2026-02-22T
+ 07:27:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset: 2026
+ -02-22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.407089-05:
+ 00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:eaae6a35-2020-5771-8b28-48f7f3a871cc@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T091159Z
+DTEND:20260223T101647Z
+SUMMARY:Sun — Night Hour 10
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Night\nHour: 10/12\nPlanet: Sun (sun)\nSunrise: 2026-02-22T0
+ 7:27:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset: 2026-
+ 02-22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.407089-05:0
+ 0
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:f8842395-31f6-50c5-af89-f9605713df31@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T101647Z
+DTEND:20260223T112135Z
+SUMMARY:Venus — Night Hour 11
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Night\nHour: 11/12\nPlanet: Venus (venus)\nSunrise: 2026-02-
+ 22T07:27:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunset: 2
+ 026-02-22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.407089-
+ 05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:ce933f52-e889-5808-966c-3b260165bd61@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T112135Z
+DTEND:20260223T122631Z
+SUMMARY:Mercury — Night Hour 12
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-22\nDay ruler: Sun\nSun sign: Pisces\nMoon phase: Waxing Cres
+ cent\nPeriod: Night\nHour: 12/12\nPlanet: Mercury (mercury)\nSunrise: 2026
+ -02-22T07:27:55.313227-05:00\nSolar noon: 2026-02-22T12:58:10-05:00\nSunse
+ t: 2026-02-22T18:28:47.785160-05:00\nNext sunrise: 2026-02-23T07:26:31.407
+ 089-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:8db84112-fee6-521c-b637-1bdebf7a3086@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T122631Z
+DTEND:20260223T132147Z
+SUMMARY:Moon — Day Hour 1
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 1/12\nPlanet: Moon (moon)\nSunrise: 2026-02-23T07:
+ 26:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset: 2026-02
+ -23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.595987-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:7f4f9cb4-82d0-50bb-b13c-d0a3ee8cfaba@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T132147Z
+DTEND:20260223T141703Z
+SUMMARY:Saturn — Day Hour 2
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 2/12\nPlanet: Saturn (saturn)\nSunrise: 2026-02-23
+ T07:26:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset: 202
+ 6-02-23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.595987-05
+ :00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:b0dcd651-503f-5754-b7d5-03232c08a6bc@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T141703Z
+DTEND:20260223T151219Z
+SUMMARY:Jupiter — Day Hour 3
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 3/12\nPlanet: Jupiter (jupiter)\nSunrise: 2026-02-
+ 23T07:26:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset: 2
+ 026-02-23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.595987-
+ 05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:dea0e8a0-e2f3-5276-964e-1eb50229a8b6@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T151219Z
+DTEND:20260223T160735Z
+SUMMARY:Mars — Day Hour 4
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 4/12\nPlanet: Mars (mars)\nSunrise: 2026-02-23T07:
+ 26:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset: 2026-02
+ -23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.595987-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:ffb048a0-be53-5586-85ce-5e93330e5944@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T160735Z
+DTEND:20260223T170251Z
+SUMMARY:Sun — Day Hour 5
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 5/12\nPlanet: Sun (sun)\nSunrise: 2026-02-23T07:26
+ :31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset: 2026-02-2
+ 3T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.595987-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:57ec010b-9f93-5dd7-ac3f-5e4421973f7a@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T170251Z
+DTEND:20260223T175807Z
+SUMMARY:Venus — Day Hour 6
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 6/12\nPlanet: Venus (venus)\nSunrise: 2026-02-23T0
+ 7:26:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset: 2026-
+ 02-23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.595987-05:0
+ 0
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:c5ef66cc-7e39-5eca-9030-8cae1986551e@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T175807Z
+DTEND:20260223T185323Z
+SUMMARY:Mercury — Day Hour 7
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 7/12\nPlanet: Mercury (mercury)\nSunrise: 2026-02-
+ 23T07:26:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset: 2
+ 026-02-23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.595987-
+ 05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:bd038d40-ea63-52e9-a7ea-3879effbaf7f@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T185323Z
+DTEND:20260223T194839Z
+SUMMARY:Moon — Day Hour 8
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 8/12\nPlanet: Moon (moon)\nSunrise: 2026-02-23T07:
+ 26:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset: 2026-02
+ -23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.595987-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:aa7a11b6-9320-54c8-820b-d1b9d72612ff@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T194839Z
+DTEND:20260223T204355Z
+SUMMARY:Saturn — Day Hour 9
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 9/12\nPlanet: Saturn (saturn)\nSunrise: 2026-02-23
+ T07:26:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset: 202
+ 6-02-23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.595987-05
+ :00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:1bd4face-dfc8-59b2-a4cb-e4bc06749290@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T204355Z
+DTEND:20260223T213911Z
+SUMMARY:Jupiter — Day Hour 10
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 10/12\nPlanet: Jupiter (jupiter)\nSunrise: 2026-02
+ -23T07:26:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset: 
+ 2026-02-23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.595987
+ -05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:0db8296d-03af-596e-96d7-87eb16ff79b1@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T213911Z
+DTEND:20260223T223427Z
+SUMMARY:Mars — Day Hour 11
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 11/12\nPlanet: Mars (mars)\nSunrise: 2026-02-23T07
+ :26:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset: 2026-0
+ 2-23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.595987-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:25e7c0e3-c1fd-5eb9-b4d9-f9a7bf46bb80@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T223427Z
+DTEND:20260223T232955Z
+SUMMARY:Sun — Day Hour 12
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 12/12\nPlanet: Sun (sun)\nSunrise: 2026-02-23T07:2
+ 6:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset: 2026-02-
+ 23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.595987-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:53e6dfd8-d809-5dc4-ba69-bbf1d088145d@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260223T232955Z
+DTEND:20260224T003430Z
+SUMMARY:Venus — Night Hour 1
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 1/12\nPlanet: Venus (venus)\nSunrise: 2026-02-23
+ T07:26:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset: 202
+ 6-02-23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.595987-05
+ :00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:6d0a0389-c486-5084-ba0d-079181f04624@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T003430Z
+DTEND:20260224T013905Z
+SUMMARY:Mercury — Night Hour 2
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 2/12\nPlanet: Mercury (mercury)\nSunrise: 2026-0
+ 2-23T07:26:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset:
+  2026-02-23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.59598
+ 7-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:ce5e6b5b-8c50-56eb-9abf-8a54dfbb48fd@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T013905Z
+DTEND:20260224T024340Z
+SUMMARY:Moon — Night Hour 3
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 3/12\nPlanet: Moon (moon)\nSunrise: 2026-02-23T0
+ 7:26:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset: 2026-
+ 02-23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.595987-05:0
+ 0
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:447587eb-4131-55f3-bc79-89f33e68aace@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T024340Z
+DTEND:20260224T034815Z
+SUMMARY:Saturn — Night Hour 4
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 4/12\nPlanet: Saturn (saturn)\nSunrise: 2026-02-
+ 23T07:26:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset: 2
+ 026-02-23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.595987-
+ 05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:ce1d5292-a236-56ff-b544-7f83d8cbb908@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T034815Z
+DTEND:20260224T045250Z
+SUMMARY:Jupiter — Night Hour 5
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 5/12\nPlanet: Jupiter (jupiter)\nSunrise: 2026-0
+ 2-23T07:26:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset:
+  2026-02-23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.59598
+ 7-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:5fbe4f89-7cc5-512b-9058-769d50987eea@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T045250Z
+DTEND:20260224T055725Z
+SUMMARY:Mars — Night Hour 6
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 6/12\nPlanet: Mars (mars)\nSunrise: 2026-02-23T0
+ 7:26:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset: 2026-
+ 02-23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.595987-05:0
+ 0
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:e6fe6323-8af6-5e84-ad3a-1d55cc3e3162@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T055725Z
+DTEND:20260224T070200Z
+SUMMARY:Sun — Night Hour 7
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 7/12\nPlanet: Sun (sun)\nSunrise: 2026-02-23T07:
+ 26:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset: 2026-02
+ -23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.595987-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:a9c00c01-fee3-5ba9-b939-caa8cbf4df4a@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T070200Z
+DTEND:20260224T080635Z
+SUMMARY:Venus — Night Hour 8
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 8/12\nPlanet: Venus (venus)\nSunrise: 2026-02-23
+ T07:26:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset: 202
+ 6-02-23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.595987-05
+ :00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:454addb5-ebcb-5fda-8520-c4b332a59a8a@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T080635Z
+DTEND:20260224T091110Z
+SUMMARY:Mercury — Night Hour 9
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 9/12\nPlanet: Mercury (mercury)\nSunrise: 2026-0
+ 2-23T07:26:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset:
+  2026-02-23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.59598
+ 7-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:7238bd18-a845-585b-8855-cc2a8d51cbb7@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T091110Z
+DTEND:20260224T101545Z
+SUMMARY:Moon — Night Hour 10
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 10/12\nPlanet: Moon (moon)\nSunrise: 2026-02-23T
+ 07:26:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset: 2026
+ -02-23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.595987-05:
+ 00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:f70c3c34-60a9-5afb-85b0-3226d438dbfe@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T101545Z
+DTEND:20260224T112020Z
+SUMMARY:Saturn — Night Hour 11
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 11/12\nPlanet: Saturn (saturn)\nSunrise: 2026-02
+ -23T07:26:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset: 
+ 2026-02-23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.595987
+ -05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:1e4fda1b-4755-58ee-9666-2f21a48600a6@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T112020Z
+DTEND:20260224T122506Z
+SUMMARY:Jupiter — Night Hour 12
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-23\nDay ruler: Moon\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 12/12\nPlanet: Jupiter (jupiter)\nSunrise: 2026-
+ 02-23T07:26:31.407089-05:00\nSolar noon: 2026-02-23T12:58:02-05:00\nSunset
+ : 2026-02-23T18:29:55.294030-05:00\nNext sunrise: 2026-02-24T07:25:06.5959
+ 87-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:bd51a498-1df3-5673-828e-b27e5e134ad4@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T122506Z
+DTEND:20260224T132035Z
+SUMMARY:Mars — Day Hour 1
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 1/12\nPlanet: Mars (mars)\nSunrise: 2026-02-24T07:
+ 25:06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset: 2026-02
+ -24T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.914573-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:0d6420af-8f5f-5edc-88b3-b053bdebf932@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T132035Z
+DTEND:20260224T141604Z
+SUMMARY:Sun — Day Hour 2
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 2/12\nPlanet: Sun (sun)\nSunrise: 2026-02-24T07:25
+ :06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset: 2026-02-2
+ 4T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.914573-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:2a60d5ba-c4eb-5e93-b017-4a4bbcac8ab2@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T141604Z
+DTEND:20260224T151133Z
+SUMMARY:Venus — Day Hour 3
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 3/12\nPlanet: Venus (venus)\nSunrise: 2026-02-24T0
+ 7:25:06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset: 2026-
+ 02-24T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.914573-05:0
+ 0
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:5cbed06f-76f9-5a9d-9fca-b99a6f7df48d@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T151133Z
+DTEND:20260224T160702Z
+SUMMARY:Mercury — Day Hour 4
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 4/12\nPlanet: Mercury (mercury)\nSunrise: 2026-02-
+ 24T07:25:06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset: 2
+ 026-02-24T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.914573-
+ 05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:cb428b77-065e-51ca-82c6-37b88dea781a@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T160702Z
+DTEND:20260224T170231Z
+SUMMARY:Moon — Day Hour 5
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 5/12\nPlanet: Moon (moon)\nSunrise: 2026-02-24T07:
+ 25:06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset: 2026-02
+ -24T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.914573-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:31d54e7d-5fce-5cf2-a35d-8513d1345d1b@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T170231Z
+DTEND:20260224T175800Z
+SUMMARY:Saturn — Day Hour 6
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 6/12\nPlanet: Saturn (saturn)\nSunrise: 2026-02-24
+ T07:25:06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset: 202
+ 6-02-24T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.914573-05
+ :00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:9a76d86f-5345-5457-ab16-ee514e6a2432@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T175800Z
+DTEND:20260224T185329Z
+SUMMARY:Jupiter — Day Hour 7
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 7/12\nPlanet: Jupiter (jupiter)\nSunrise: 2026-02-
+ 24T07:25:06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset: 2
+ 026-02-24T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.914573-
+ 05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:42e85653-0f1d-56fe-b7ab-9b33fc318eff@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T185329Z
+DTEND:20260224T194858Z
+SUMMARY:Mars — Day Hour 8
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 8/12\nPlanet: Mars (mars)\nSunrise: 2026-02-24T07:
+ 25:06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset: 2026-02
+ -24T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.914573-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:04c333dc-971f-5627-ba62-68b569b773aa@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T194858Z
+DTEND:20260224T204427Z
+SUMMARY:Sun — Day Hour 9
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 9/12\nPlanet: Sun (sun)\nSunrise: 2026-02-24T07:25
+ :06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset: 2026-02-2
+ 4T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.914573-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:ffb1b777-8be7-5e8a-b808-54f628897604@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T204427Z
+DTEND:20260224T213956Z
+SUMMARY:Venus — Day Hour 10
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 10/12\nPlanet: Venus (venus)\nSunrise: 2026-02-24T
+ 07:25:06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset: 2026
+ -02-24T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.914573-05:
+ 00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:a6162ea9-9fc8-5dd5-b69e-e6c9e4e78b8e@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T213956Z
+DTEND:20260224T223525Z
+SUMMARY:Mercury — Day Hour 11
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 11/12\nPlanet: Mercury (mercury)\nSunrise: 2026-02
+ -24T07:25:06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset: 
+ 2026-02-24T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.914573
+ -05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:6cbd64bd-96c1-5dc3-9e38-6be9fa1d2a91@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T223525Z
+DTEND:20260224T233102Z
+SUMMARY:Moon — Day Hour 12
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Day\nHour: 12/12\nPlanet: Moon (moon)\nSunrise: 2026-02-24T07
+ :25:06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset: 2026-0
+ 2-24T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.914573-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:662632d2-cc69-5384-b0a1-bf9cd83f1dca@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260224T233102Z
+DTEND:20260225T003525Z
+SUMMARY:Saturn — Night Hour 1
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 1/12\nPlanet: Saturn (saturn)\nSunrise: 2026-02-
+ 24T07:25:06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset: 2
+ 026-02-24T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.914573-
+ 05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:48dea02b-5f48-5148-a0cb-918ba841e901@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T003525Z
+DTEND:20260225T013948Z
+SUMMARY:Jupiter — Night Hour 2
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 2/12\nPlanet: Jupiter (jupiter)\nSunrise: 2026-0
+ 2-24T07:25:06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset:
+  2026-02-24T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.91457
+ 3-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:a89584e6-5090-5f25-b005-6b21f6a9f2c0@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T013948Z
+DTEND:20260225T024411Z
+SUMMARY:Mars — Night Hour 3
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 3/12\nPlanet: Mars (mars)\nSunrise: 2026-02-24T0
+ 7:25:06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset: 2026-
+ 02-24T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.914573-05:0
+ 0
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:c2a5077e-81b8-5832-bb62-85a0a9f9494d@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T024411Z
+DTEND:20260225T034834Z
+SUMMARY:Sun — Night Hour 4
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 4/12\nPlanet: Sun (sun)\nSunrise: 2026-02-24T07:
+ 25:06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset: 2026-02
+ -24T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.914573-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:71ef017c-20a8-5cb7-b3c6-77202232e646@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T034834Z
+DTEND:20260225T045257Z
+SUMMARY:Venus — Night Hour 5
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 5/12\nPlanet: Venus (venus)\nSunrise: 2026-02-24
+ T07:25:06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset: 202
+ 6-02-24T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.914573-05
+ :00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:d471f7c3-f38c-58a6-a86f-04263798da6c@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T045257Z
+DTEND:20260225T055720Z
+SUMMARY:Mercury — Night Hour 6
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 6/12\nPlanet: Mercury (mercury)\nSunrise: 2026-0
+ 2-24T07:25:06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset:
+  2026-02-24T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.91457
+ 3-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:601d9a65-281e-51f4-957a-b03fbf431e3d@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T055720Z
+DTEND:20260225T070143Z
+SUMMARY:Moon — Night Hour 7
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 7/12\nPlanet: Moon (moon)\nSunrise: 2026-02-24T0
+ 7:25:06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset: 2026-
+ 02-24T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.914573-05:0
+ 0
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:8fc4b2a5-80bd-5df0-928a-f66343ca9ba4@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T070143Z
+DTEND:20260225T080606Z
+SUMMARY:Saturn — Night Hour 8
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 8/12\nPlanet: Saturn (saturn)\nSunrise: 2026-02-
+ 24T07:25:06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset: 2
+ 026-02-24T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.914573-
+ 05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:8a68724b-d3ac-5de6-bdcd-6dfbc7aef28f@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T080606Z
+DTEND:20260225T091029Z
+SUMMARY:Jupiter — Night Hour 9
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 9/12\nPlanet: Jupiter (jupiter)\nSunrise: 2026-0
+ 2-24T07:25:06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset:
+  2026-02-24T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.91457
+ 3-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:1fdacb91-5380-577a-9449-de61e605dd16@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T091029Z
+DTEND:20260225T101452Z
+SUMMARY:Mars — Night Hour 10
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 10/12\nPlanet: Mars (mars)\nSunrise: 2026-02-24T
+ 07:25:06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset: 2026
+ -02-24T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.914573-05:
+ 00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:8e416bfc-1dfa-533c-84ed-6ce3ead513e2@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T101452Z
+DTEND:20260225T111915Z
+SUMMARY:Sun — Night Hour 11
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 11/12\nPlanet: Sun (sun)\nSunrise: 2026-02-24T07
+ :25:06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset: 2026-0
+ 2-24T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.914573-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:08329b56-3cc4-5627-b47d-0878933b2012@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T111915Z
+DTEND:20260225T122340Z
+SUMMARY:Venus — Night Hour 12
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-24\nDay ruler: Mars\nSun sign: Pisces\nMoon phase: First Quar
+ ter\nPeriod: Night\nHour: 12/12\nPlanet: Venus (venus)\nSunrise: 2026-02-2
+ 4T07:25:06.595987-05:00\nSolar noon: 2026-02-24T12:57:53-05:00\nSunset: 20
+ 26-02-24T18:31:02.490149-05:00\nNext sunrise: 2026-02-25T07:23:40.914573-0
+ 5:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:2a30265d-fabe-5aff-88ee-a880cf52ed45@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T122340Z
+DTEND:20260225T131922Z
+SUMMARY:Mercury — Day Hour 1
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Day\nHour: 1/12\nPlanet: Mercury (mercury)\nSunrise: 2026-
+ 02-25T07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSunset
+ : 2026-02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.3973
+ 43-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fb48da58-3459-5b51-8955-6cc9cbc44856@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T131922Z
+DTEND:20260225T141504Z
+SUMMARY:Moon — Day Hour 2
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Day\nHour: 2/12\nPlanet: Moon (moon)\nSunrise: 2026-02-25T
+ 07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSunset: 2026
+ -02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.397343-05:
+ 00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:5c138180-1537-5a24-8324-09db279dcc32@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T141504Z
+DTEND:20260225T151046Z
+SUMMARY:Saturn — Day Hour 3
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Day\nHour: 3/12\nPlanet: Saturn (saturn)\nSunrise: 2026-02
+ -25T07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSunset: 
+ 2026-02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.397343
+ -05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:bfbae102-a2b2-5dcb-8190-acfc99bdd371@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T151046Z
+DTEND:20260225T160628Z
+SUMMARY:Jupiter — Day Hour 4
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Day\nHour: 4/12\nPlanet: Jupiter (jupiter)\nSunrise: 2026-
+ 02-25T07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSunset
+ : 2026-02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.3973
+ 43-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:a13efb78-7e05-5fd0-ae8f-a0f3aaf78822@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T160628Z
+DTEND:20260225T170210Z
+SUMMARY:Mars — Day Hour 5
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Day\nHour: 5/12\nPlanet: Mars (mars)\nSunrise: 2026-02-25T
+ 07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSunset: 2026
+ -02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.397343-05:
+ 00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fb2d51dd-955d-50bd-a8c3-87ed8f048f11@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T170210Z
+DTEND:20260225T175752Z
+SUMMARY:Sun — Day Hour 6
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Day\nHour: 6/12\nPlanet: Sun (sun)\nSunrise: 2026-02-25T07
+ :23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSunset: 2026-0
+ 2-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.397343-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:587ef8c1-7382-5164-b134-54838b5ae9b4@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T175752Z
+DTEND:20260225T185334Z
+SUMMARY:Venus — Day Hour 7
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Day\nHour: 7/12\nPlanet: Venus (venus)\nSunrise: 2026-02-2
+ 5T07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSunset: 20
+ 26-02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.397343-0
+ 5:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:05ae727a-05c8-5ba4-85d7-2df4a8466a76@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T185334Z
+DTEND:20260225T194916Z
+SUMMARY:Mercury — Day Hour 8
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Day\nHour: 8/12\nPlanet: Mercury (mercury)\nSunrise: 2026-
+ 02-25T07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSunset
+ : 2026-02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.3973
+ 43-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:da8cfe1d-6b4e-581a-9600-5dcc6e495a7c@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T194916Z
+DTEND:20260225T204458Z
+SUMMARY:Moon — Day Hour 9
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Day\nHour: 9/12\nPlanet: Moon (moon)\nSunrise: 2026-02-25T
+ 07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSunset: 2026
+ -02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.397343-05:
+ 00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:1deff98d-03b8-5cde-8c51-12958b7410fb@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T204458Z
+DTEND:20260225T214040Z
+SUMMARY:Saturn — Day Hour 10
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Day\nHour: 10/12\nPlanet: Saturn (saturn)\nSunrise: 2026-0
+ 2-25T07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSunset:
+  2026-02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.39734
+ 3-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:e48e7590-ccac-52f1-9cec-2b8104a7e5dc@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T214040Z
+DTEND:20260225T223622Z
+SUMMARY:Jupiter — Day Hour 11
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Day\nHour: 11/12\nPlanet: Jupiter (jupiter)\nSunrise: 2026
+ -02-25T07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSunse
+ t: 2026-02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.397
+ 343-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:a7ce0d15-6582-5389-a1df-91b3b661dd18@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T223622Z
+DTEND:20260225T233209Z
+SUMMARY:Mars — Day Hour 12
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Day\nHour: 12/12\nPlanet: Mars (mars)\nSunrise: 2026-02-25
+ T07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSunset: 202
+ 6-02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.397343-05
+ :00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:7f41447c-f73e-59af-ba33-1f2f3d363fce@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260225T233209Z
+DTEND:20260226T003619Z
+SUMMARY:Sun — Night Hour 1
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Night\nHour: 1/12\nPlanet: Sun (sun)\nSunrise: 2026-02-25T
+ 07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSunset: 2026
+ -02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.397343-05:
+ 00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:9557025f-b355-51d0-8424-5351cfba7bd9@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T003619Z
+DTEND:20260226T014029Z
+SUMMARY:Venus — Night Hour 2
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Night\nHour: 2/12\nPlanet: Venus (venus)\nSunrise: 2026-02
+ -25T07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSunset: 
+ 2026-02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.397343
+ -05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:3b01b101-19f5-51b1-9009-512ad8571265@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T014029Z
+DTEND:20260226T024439Z
+SUMMARY:Mercury — Night Hour 3
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Night\nHour: 3/12\nPlanet: Mercury (mercury)\nSunrise: 202
+ 6-02-25T07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSuns
+ et: 2026-02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.39
+ 7343-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:7ad4f2ee-f52f-589e-9427-c75c0a85d904@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T024439Z
+DTEND:20260226T034849Z
+SUMMARY:Moon — Night Hour 4
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Night\nHour: 4/12\nPlanet: Moon (moon)\nSunrise: 2026-02-2
+ 5T07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSunset: 20
+ 26-02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.397343-0
+ 5:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:1478cfb5-a7ef-5f04-a31c-84d8bd8609cc@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T034849Z
+DTEND:20260226T045259Z
+SUMMARY:Saturn — Night Hour 5
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Night\nHour: 5/12\nPlanet: Saturn (saturn)\nSunrise: 2026-
+ 02-25T07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSunset
+ : 2026-02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.3973
+ 43-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:7e58eb3e-bd91-526e-b658-5d708d49ff01@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T045259Z
+DTEND:20260226T055709Z
+SUMMARY:Jupiter — Night Hour 6
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Night\nHour: 6/12\nPlanet: Jupiter (jupiter)\nSunrise: 202
+ 6-02-25T07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSuns
+ et: 2026-02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.39
+ 7343-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:80dea136-1005-547d-818a-b70013584ed9@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T055709Z
+DTEND:20260226T070119Z
+SUMMARY:Mars — Night Hour 7
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Night\nHour: 7/12\nPlanet: Mars (mars)\nSunrise: 2026-02-2
+ 5T07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSunset: 20
+ 26-02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.397343-0
+ 5:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:43a28581-6168-58b0-9ba6-2579f68638dc@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T070119Z
+DTEND:20260226T080529Z
+SUMMARY:Sun — Night Hour 8
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Night\nHour: 8/12\nPlanet: Sun (sun)\nSunrise: 2026-02-25T
+ 07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSunset: 2026
+ -02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.397343-05:
+ 00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:73924eea-c294-5e80-931b-b788cf366b5e@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T080529Z
+DTEND:20260226T090939Z
+SUMMARY:Venus — Night Hour 9
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Night\nHour: 9/12\nPlanet: Venus (venus)\nSunrise: 2026-02
+ -25T07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSunset: 
+ 2026-02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.397343
+ -05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:552fd6e3-de4c-5683-9c28-4a7a61cb8ccc@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T090939Z
+DTEND:20260226T101349Z
+SUMMARY:Mercury — Night Hour 10
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Night\nHour: 10/12\nPlanet: Mercury (mercury)\nSunrise: 20
+ 26-02-25T07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSun
+ set: 2026-02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.3
+ 97343-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:ee9d3d98-867f-5ff2-8724-2ef708118c48@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T101349Z
+DTEND:20260226T111759Z
+SUMMARY:Moon — Night Hour 11
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Night\nHour: 11/12\nPlanet: Moon (moon)\nSunrise: 2026-02-
+ 25T07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSunset: 2
+ 026-02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.397343-
+ 05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:7ca17180-7f9c-5611-9d0a-ecca6f313c14@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T111759Z
+DTEND:20260226T122214Z
+SUMMARY:Saturn — Night Hour 12
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-25\nDay ruler: Mercury\nSun sign: Pisces\nMoon phase: First Q
+ uarter\nPeriod: Night\nHour: 12/12\nPlanet: Saturn (saturn)\nSunrise: 2026
+ -02-25T07:23:40.914573-05:00\nSolar noon: 2026-02-25T12:57:44-05:00\nSunse
+ t: 2026-02-25T18:32:09.373390-05:00\nNext sunrise: 2026-02-26T07:22:14.397
+ 343-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:58565ba4-fd4d-5b7c-b6b5-dbf2ab3f978d@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T122214Z
+DTEND:20260226T131809Z
+SUMMARY:Jupiter — Day Hour 1
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Day\nHour: 1/12\nPlanet: Jupiter (jupiter)\nSunrise: 2026
+ -02-26T07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSunse
+ t: 2026-02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.078
+ 619-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:afe62ef2-d3ec-576c-b1fe-676dfdc8c7c2@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T131809Z
+DTEND:20260226T141404Z
+SUMMARY:Mars — Day Hour 2
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Day\nHour: 2/12\nPlanet: Mars (mars)\nSunrise: 2026-02-26
+ T07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSunset: 202
+ 6-02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.078619-05
+ :00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:c9142a49-d4db-51c5-b33c-e1591df06a76@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T141404Z
+DTEND:20260226T150959Z
+SUMMARY:Sun — Day Hour 3
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Day\nHour: 3/12\nPlanet: Sun (sun)\nSunrise: 2026-02-26T0
+ 7:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSunset: 2026-
+ 02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.078619-05:0
+ 0
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:2d1aac0d-90be-518c-9d99-1ac2f538d558@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T150959Z
+DTEND:20260226T160554Z
+SUMMARY:Venus — Day Hour 4
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Day\nHour: 4/12\nPlanet: Venus (venus)\nSunrise: 2026-02-
+ 26T07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSunset: 2
+ 026-02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.078619-
+ 05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:ddc337ae-0d2d-52c3-8b24-3304d01aa418@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T160554Z
+DTEND:20260226T170149Z
+SUMMARY:Mercury — Day Hour 5
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Day\nHour: 5/12\nPlanet: Mercury (mercury)\nSunrise: 2026
+ -02-26T07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSunse
+ t: 2026-02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.078
+ 619-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:94e07523-292c-5fb8-ad0a-176db6dc5842@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T170149Z
+DTEND:20260226T175744Z
+SUMMARY:Moon — Day Hour 6
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Day\nHour: 6/12\nPlanet: Moon (moon)\nSunrise: 2026-02-26
+ T07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSunset: 202
+ 6-02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.078619-05
+ :00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:429f3753-71c9-5bd9-94aa-404a8736b80b@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T175744Z
+DTEND:20260226T185339Z
+SUMMARY:Saturn — Day Hour 7
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Day\nHour: 7/12\nPlanet: Saturn (saturn)\nSunrise: 2026-0
+ 2-26T07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSunset:
+  2026-02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.07861
+ 9-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:03ad1b53-a2f1-5db3-bf7d-ebc5f9f215a5@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T185339Z
+DTEND:20260226T194934Z
+SUMMARY:Jupiter — Day Hour 8
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Day\nHour: 8/12\nPlanet: Jupiter (jupiter)\nSunrise: 2026
+ -02-26T07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSunse
+ t: 2026-02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.078
+ 619-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:9def454d-7114-57dd-b344-edb1d169ae69@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T194934Z
+DTEND:20260226T204529Z
+SUMMARY:Mars — Day Hour 9
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Day\nHour: 9/12\nPlanet: Mars (mars)\nSunrise: 2026-02-26
+ T07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSunset: 202
+ 6-02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.078619-05
+ :00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:92bcd8eb-0d96-5f41-8e11-10baa22a580f@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T204529Z
+DTEND:20260226T214124Z
+SUMMARY:Sun — Day Hour 10
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Day\nHour: 10/12\nPlanet: Sun (sun)\nSunrise: 2026-02-26T
+ 07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSunset: 2026
+ -02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.078619-05:
+ 00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:3f4250b5-1419-54fb-81a1-1453af0b1b0f@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T214124Z
+DTEND:20260226T223719Z
+SUMMARY:Venus — Day Hour 11
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Day\nHour: 11/12\nPlanet: Venus (venus)\nSunrise: 2026-02
+ -26T07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSunset: 
+ 2026-02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.078619
+ -05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:274d5a42-ca2d-5f66-b163-7f40f98f5451@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T223719Z
+DTEND:20260226T233315Z
+SUMMARY:Mercury — Day Hour 12
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Day\nHour: 12/12\nPlanet: Mercury (mercury)\nSunrise: 202
+ 6-02-26T07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSuns
+ et: 2026-02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.07
+ 8619-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:5002b4e0-960b-53ad-baa7-56a4d362c25e@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260226T233315Z
+DTEND:20260227T003712Z
+SUMMARY:Moon — Night Hour 1
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Night\nHour: 1/12\nPlanet: Moon (moon)\nSunrise: 2026-02-
+ 26T07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSunset: 2
+ 026-02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.078619-
+ 05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:ea2ac784-0b9b-5082-92a3-e7b824318ed0@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T003712Z
+DTEND:20260227T014109Z
+SUMMARY:Saturn — Night Hour 2
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Night\nHour: 2/12\nPlanet: Saturn (saturn)\nSunrise: 2026
+ -02-26T07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSunse
+ t: 2026-02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.078
+ 619-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:90a2414d-4546-5985-b300-d0dab5508207@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T014109Z
+DTEND:20260227T024506Z
+SUMMARY:Jupiter — Night Hour 3
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Night\nHour: 3/12\nPlanet: Jupiter (jupiter)\nSunrise: 20
+ 26-02-26T07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSun
+ set: 2026-02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.0
+ 78619-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:ba31ee7a-f21b-58f5-81de-a6107084188a@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T024506Z
+DTEND:20260227T034903Z
+SUMMARY:Mars — Night Hour 4
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Night\nHour: 4/12\nPlanet: Mars (mars)\nSunrise: 2026-02-
+ 26T07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSunset: 2
+ 026-02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.078619-
+ 05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:ad3eb3dd-73c1-5ca9-b629-4ef5f011d049@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T034903Z
+DTEND:20260227T045300Z
+SUMMARY:Sun — Night Hour 5
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Night\nHour: 5/12\nPlanet: Sun (sun)\nSunrise: 2026-02-26
+ T07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSunset: 202
+ 6-02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.078619-05
+ :00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:8163fe82-1e96-5be2-966a-37fe78d773f0@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T045300Z
+DTEND:20260227T055657Z
+SUMMARY:Venus — Night Hour 6
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Night\nHour: 6/12\nPlanet: Venus (venus)\nSunrise: 2026-0
+ 2-26T07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSunset:
+  2026-02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.07861
+ 9-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:ad3d1623-64e5-5322-b4df-12548e94ab5a@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T055657Z
+DTEND:20260227T070054Z
+SUMMARY:Mercury — Night Hour 7
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Night\nHour: 7/12\nPlanet: Mercury (mercury)\nSunrise: 20
+ 26-02-26T07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSun
+ set: 2026-02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.0
+ 78619-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:ba9acee0-32e8-57bd-b696-645e7b6633c5@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T070054Z
+DTEND:20260227T080451Z
+SUMMARY:Moon — Night Hour 8
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Night\nHour: 8/12\nPlanet: Moon (moon)\nSunrise: 2026-02-
+ 26T07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSunset: 2
+ 026-02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.078619-
+ 05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:856d2a5d-8c08-5569-9add-6ffe1864a20a@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T080451Z
+DTEND:20260227T090848Z
+SUMMARY:Saturn — Night Hour 9
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Night\nHour: 9/12\nPlanet: Saturn (saturn)\nSunrise: 2026
+ -02-26T07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSunse
+ t: 2026-02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.078
+ 619-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:c97c681e-1b2b-53c5-bf33-42bc21572e48@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T090848Z
+DTEND:20260227T101245Z
+SUMMARY:Jupiter — Night Hour 10
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Night\nHour: 10/12\nPlanet: Jupiter (jupiter)\nSunrise: 2
+ 026-02-26T07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSu
+ nset: 2026-02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.
+ 078619-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:326bcfaa-a4e2-5f93-9342-b8396819a952@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T101245Z
+DTEND:20260227T111642Z
+SUMMARY:Mars — Night Hour 11
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Night\nHour: 11/12\nPlanet: Mars (mars)\nSunrise: 2026-02
+ -26T07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSunset: 
+ 2026-02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.078619
+ -05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:0142b83b-69de-5790-a3de-1626293ca511@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T111642Z
+DTEND:20260227T122047Z
+SUMMARY:Sun — Night Hour 12
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-26\nDay ruler: Jupiter\nSun sign: Pisces\nMoon phase: Waxing 
+ Gibbous\nPeriod: Night\nHour: 12/12\nPlanet: Sun (sun)\nSunrise: 2026-02-2
+ 6T07:22:14.397343-05:00\nSolar noon: 2026-02-26T12:57:34-05:00\nSunset: 20
+ 26-02-26T18:33:15.944571-05:00\nNext sunrise: 2026-02-27T07:20:47.078619-0
+ 5:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:61ddf6d6-21d7-56ab-9dba-bb89b7265ef1@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T122047Z
+DTEND:20260227T131654Z
+SUMMARY:Venus — Day Hour 1
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Day\nHour: 1/12\nPlanet: Venus (venus)\nSunrise: 2026-02-27
+ T07:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunset: 202
+ 6-02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.992550-05
+ :00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:a5663b5a-4256-5637-aa55-6262e32eebdb@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T131654Z
+DTEND:20260227T141301Z
+SUMMARY:Mercury — Day Hour 2
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Day\nHour: 2/12\nPlanet: Mercury (mercury)\nSunrise: 2026-0
+ 2-27T07:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunset:
+  2026-02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.99255
+ 0-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:399d0127-ad13-5798-aaa5-948a1d011913@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T141301Z
+DTEND:20260227T150908Z
+SUMMARY:Moon — Day Hour 3
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Day\nHour: 3/12\nPlanet: Moon (moon)\nSunrise: 2026-02-27T0
+ 7:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunset: 2026-
+ 02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.992550-05:0
+ 0
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:c35adce7-44ae-5d85-8113-37afd8a0761b@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T150908Z
+DTEND:20260227T160515Z
+SUMMARY:Saturn — Day Hour 4
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Day\nHour: 4/12\nPlanet: Saturn (saturn)\nSunrise: 2026-02-
+ 27T07:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunset: 2
+ 026-02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.992550-
+ 05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:8a1bf320-6a0c-5735-ba36-999f0c38fede@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T160515Z
+DTEND:20260227T170122Z
+SUMMARY:Jupiter — Day Hour 5
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Day\nHour: 5/12\nPlanet: Jupiter (jupiter)\nSunrise: 2026-0
+ 2-27T07:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunset:
+  2026-02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.99255
+ 0-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:7e31e8ed-56f1-5a0c-8350-e799de79b277@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T170122Z
+DTEND:20260227T175729Z
+SUMMARY:Mars — Day Hour 6
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Day\nHour: 6/12\nPlanet: Mars (mars)\nSunrise: 2026-02-27T0
+ 7:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunset: 2026-
+ 02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.992550-05:0
+ 0
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:fca30d77-3ee3-5173-91e4-6ed6ab4566ae@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T175729Z
+DTEND:20260227T185336Z
+SUMMARY:Sun — Day Hour 7
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Day\nHour: 7/12\nPlanet: Sun (sun)\nSunrise: 2026-02-27T07:
+ 20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunset: 2026-02
+ -27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.992550-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:f0b9f68b-891d-549e-ae55-b5527c78a311@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T185336Z
+DTEND:20260227T194943Z
+SUMMARY:Venus — Day Hour 8
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Day\nHour: 8/12\nPlanet: Venus (venus)\nSunrise: 2026-02-27
+ T07:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunset: 202
+ 6-02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.992550-05
+ :00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:b87055c3-7d96-5511-8dcf-d859924a5f40@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T194943Z
+DTEND:20260227T204550Z
+SUMMARY:Mercury — Day Hour 9
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Day\nHour: 9/12\nPlanet: Mercury (mercury)\nSunrise: 2026-0
+ 2-27T07:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunset:
+  2026-02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.99255
+ 0-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:e8dd7432-3636-59aa-9d3f-658b59c99c89@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T204550Z
+DTEND:20260227T214157Z
+SUMMARY:Moon — Day Hour 10
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Day\nHour: 10/12\nPlanet: Moon (moon)\nSunrise: 2026-02-27T
+ 07:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunset: 2026
+ -02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.992550-05:
+ 00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:c5e046f8-ac92-538c-9c8a-59711c9e7a47@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T214157Z
+DTEND:20260227T223804Z
+SUMMARY:Saturn — Day Hour 11
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Day\nHour: 11/12\nPlanet: Saturn (saturn)\nSunrise: 2026-02
+ -27T07:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunset: 
+ 2026-02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.992550
+ -05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:f6796323-6f9f-5b93-b0b3-44aaaaa74366@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T223804Z
+DTEND:20260227T233422Z
+SUMMARY:Jupiter — Day Hour 12
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Day\nHour: 12/12\nPlanet: Jupiter (jupiter)\nSunrise: 2026-
+ 02-27T07:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunset
+ : 2026-02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.9925
+ 50-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:909700eb-27d9-5e13-a7c6-fa5012f0216f@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260227T233422Z
+DTEND:20260228T003806Z
+SUMMARY:Mars — Night Hour 1
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Night\nHour: 1/12\nPlanet: Mars (mars)\nSunrise: 2026-02-27
+ T07:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunset: 202
+ 6-02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.992550-05
+ :00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:3a8f3af0-063f-5a0d-953b-ad07ff27da86@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T003806Z
+DTEND:20260228T014150Z
+SUMMARY:Sun — Night Hour 2
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Night\nHour: 2/12\nPlanet: Sun (sun)\nSunrise: 2026-02-27T0
+ 7:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunset: 2026-
+ 02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.992550-05:0
+ 0
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:f62acae0-18ff-50cc-a5fc-68cffbd9e7b8@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T014150Z
+DTEND:20260228T024534Z
+SUMMARY:Venus — Night Hour 3
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Night\nHour: 3/12\nPlanet: Venus (venus)\nSunrise: 2026-02-
+ 27T07:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunset: 2
+ 026-02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.992550-
+ 05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:6817353d-a8f5-5e67-af96-6284cfdbd59d@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T024534Z
+DTEND:20260228T034918Z
+SUMMARY:Mercury — Night Hour 4
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Night\nHour: 4/12\nPlanet: Mercury (mercury)\nSunrise: 2026
+ -02-27T07:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunse
+ t: 2026-02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.992
+ 550-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:4ba515a1-dafc-5920-9faa-5eb21da10b37@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T034918Z
+DTEND:20260228T045302Z
+SUMMARY:Moon — Night Hour 5
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Night\nHour: 5/12\nPlanet: Moon (moon)\nSunrise: 2026-02-27
+ T07:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunset: 202
+ 6-02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.992550-05
+ :00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:82b9e341-3538-5545-9bde-fb86f362eb85@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T045302Z
+DTEND:20260228T055646Z
+SUMMARY:Saturn — Night Hour 6
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Night\nHour: 6/12\nPlanet: Saturn (saturn)\nSunrise: 2026-0
+ 2-27T07:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunset:
+  2026-02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.99255
+ 0-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:111c06f7-8813-5209-88d2-e6e25c24b7a9@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T055646Z
+DTEND:20260228T070030Z
+SUMMARY:Jupiter — Night Hour 7
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Night\nHour: 7/12\nPlanet: Jupiter (jupiter)\nSunrise: 2026
+ -02-27T07:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunse
+ t: 2026-02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.992
+ 550-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:0a97314b-6153-5bf2-8371-105a18ef27a7@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T070030Z
+DTEND:20260228T080414Z
+SUMMARY:Mars — Night Hour 8
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Night\nHour: 8/12\nPlanet: Mars (mars)\nSunrise: 2026-02-27
+ T07:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunset: 202
+ 6-02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.992550-05
+ :00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:cf287314-4823-594b-af15-2961e214818e@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T080414Z
+DTEND:20260228T090758Z
+SUMMARY:Sun — Night Hour 9
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Night\nHour: 9/12\nPlanet: Sun (sun)\nSunrise: 2026-02-27T0
+ 7:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunset: 2026-
+ 02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.992550-05:0
+ 0
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:12c9ff80-6326-52ab-9038-5f8c1bff0734@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T090758Z
+DTEND:20260228T101142Z
+SUMMARY:Venus — Night Hour 10
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Night\nHour: 10/12\nPlanet: Venus (venus)\nSunrise: 2026-02
+ -27T07:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunset: 
+ 2026-02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.992550
+ -05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:15a91f13-9498-5599-86f4-aed2a85f1dd9@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T101142Z
+DTEND:20260228T111526Z
+SUMMARY:Mercury — Night Hour 11
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Night\nHour: 11/12\nPlanet: Mercury (mercury)\nSunrise: 202
+ 6-02-27T07:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSuns
+ et: 2026-02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.99
+ 2550-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:dc1ef694-4dcb-5b4c-a655-05ae3e4cb45f@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T111526Z
+DTEND:20260228T121918Z
+SUMMARY:Moon — Night Hour 12
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-27\nDay ruler: Venus\nSun sign: Pisces\nMoon phase: Waxing Gi
+ bbous\nPeriod: Night\nHour: 12/12\nPlanet: Moon (moon)\nSunrise: 2026-02-2
+ 7T07:20:47.078619-05:00\nSolar noon: 2026-02-27T12:57:24-05:00\nSunset: 20
+ 26-02-27T18:34:22.205410-05:00\nNext sunrise: 2026-02-28T07:19:18.992550-0
+ 5:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:7f396ad5-2f85-5d22-b987-5796577e9c86@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T121918Z
+DTEND:20260228T131538Z
+SUMMARY:Saturn — Day Hour 1
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Day\nHour: 1/12\nPlanet: Saturn (saturn)\nSunrise: 2026-02
+ -28T07:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSunset: 
+ 2026-02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.173096
+ -05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:6c7a375c-064d-5851-8168-fa3a21ecbb8d@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T131538Z
+DTEND:20260228T141158Z
+SUMMARY:Jupiter — Day Hour 2
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Day\nHour: 2/12\nPlanet: Jupiter (jupiter)\nSunrise: 2026-
+ 02-28T07:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSunset
+ : 2026-02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.1730
+ 96-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:d810151c-a7e9-585c-9341-e0e1eeec5bf0@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T141158Z
+DTEND:20260228T150818Z
+SUMMARY:Mars — Day Hour 3
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Day\nHour: 3/12\nPlanet: Mars (mars)\nSunrise: 2026-02-28T
+ 07:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSunset: 2026
+ -02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.173096-05:
+ 00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:ab349ff2-3947-54f3-be3a-a05c7e410d0b@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T150818Z
+DTEND:20260228T160438Z
+SUMMARY:Sun — Day Hour 4
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Day\nHour: 4/12\nPlanet: Sun (sun)\nSunrise: 2026-02-28T07
+ :19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSunset: 2026-0
+ 2-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.173096-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:dbe318ed-b763-5e81-82cc-775eadfbafb2@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T160438Z
+DTEND:20260228T170058Z
+SUMMARY:Venus — Day Hour 5
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Day\nHour: 5/12\nPlanet: Venus (venus)\nSunrise: 2026-02-2
+ 8T07:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSunset: 20
+ 26-02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.173096-0
+ 5:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:d3d9f3ab-a251-5976-a6ba-83164444416b@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T170058Z
+DTEND:20260228T175718Z
+SUMMARY:Mercury — Day Hour 6
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Day\nHour: 6/12\nPlanet: Mercury (mercury)\nSunrise: 2026-
+ 02-28T07:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSunset
+ : 2026-02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.1730
+ 96-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:b39e3637-f218-5660-8569-3c0882497e4e@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T175718Z
+DTEND:20260228T185338Z
+SUMMARY:Moon — Day Hour 7
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Day\nHour: 7/12\nPlanet: Moon (moon)\nSunrise: 2026-02-28T
+ 07:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSunset: 2026
+ -02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.173096-05:
+ 00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:9976c386-0c41-5a33-872a-9b8d5fd19bee@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T185338Z
+DTEND:20260228T194958Z
+SUMMARY:Saturn — Day Hour 8
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Day\nHour: 8/12\nPlanet: Saturn (saturn)\nSunrise: 2026-02
+ -28T07:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSunset: 
+ 2026-02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.173096
+ -05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:72955f6b-9db8-5d66-8bfb-c353dd1c4cf9@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T194958Z
+DTEND:20260228T204618Z
+SUMMARY:Jupiter — Day Hour 9
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Day\nHour: 9/12\nPlanet: Jupiter (jupiter)\nSunrise: 2026-
+ 02-28T07:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSunset
+ : 2026-02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.1730
+ 96-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:f279d985-0f9c-5711-b68d-f88da07d08d0@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T204618Z
+DTEND:20260228T214238Z
+SUMMARY:Mars — Day Hour 10
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Day\nHour: 10/12\nPlanet: Mars (mars)\nSunrise: 2026-02-28
+ T07:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSunset: 202
+ 6-02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.173096-05
+ :00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:7a99a2a9-7056-560e-bdb1-aad62e9fcb79@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T214238Z
+DTEND:20260228T223858Z
+SUMMARY:Sun — Day Hour 11
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Day\nHour: 11/12\nPlanet: Sun (sun)\nSunrise: 2026-02-28T0
+ 7:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSunset: 2026-
+ 02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.173096-05:0
+ 0
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:887e48b0-d103-5ee0-b4b9-eff5ac05316b@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T223858Z
+DTEND:20260228T233528Z
+SUMMARY:Venus — Day Hour 12
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Day\nHour: 12/12\nPlanet: Venus (venus)\nSunrise: 2026-02-
+ 28T07:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSunset: 2
+ 026-02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.173096-
+ 05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:5126acb8-dfed-51f8-8d84-162e18c25e47@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260228T233528Z
+DTEND:20260301T003859Z
+SUMMARY:Mercury — Night Hour 1
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Night\nHour: 1/12\nPlanet: Mercury (mercury)\nSunrise: 202
+ 6-02-28T07:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSuns
+ et: 2026-02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.17
+ 3096-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:c86f539a-ecfc-58a1-9bd9-0c779a5c3f46@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260301T003859Z
+DTEND:20260301T014230Z
+SUMMARY:Moon — Night Hour 2
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Night\nHour: 2/12\nPlanet: Moon (moon)\nSunrise: 2026-02-2
+ 8T07:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSunset: 20
+ 26-02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.173096-0
+ 5:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:cea73541-45c6-5ba0-ae47-396d0fbb489f@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260301T014230Z
+DTEND:20260301T024601Z
+SUMMARY:Saturn — Night Hour 3
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Night\nHour: 3/12\nPlanet: Saturn (saturn)\nSunrise: 2026-
+ 02-28T07:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSunset
+ : 2026-02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.1730
+ 96-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:273f7c15-25ee-5ff6-b2f7-a59137fff937@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260301T024601Z
+DTEND:20260301T034932Z
+SUMMARY:Jupiter — Night Hour 4
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Night\nHour: 4/12\nPlanet: Jupiter (jupiter)\nSunrise: 202
+ 6-02-28T07:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSuns
+ et: 2026-02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.17
+ 3096-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:149d68e3-a5fc-541d-9908-1e4eb71266b3@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260301T034932Z
+DTEND:20260301T045303Z
+SUMMARY:Mars — Night Hour 5
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Night\nHour: 5/12\nPlanet: Mars (mars)\nSunrise: 2026-02-2
+ 8T07:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSunset: 20
+ 26-02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.173096-0
+ 5:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:b1b09543-efd4-51f1-b8f6-3352e5a8970a@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260301T045303Z
+DTEND:20260301T055634Z
+SUMMARY:Sun — Night Hour 6
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Night\nHour: 6/12\nPlanet: Sun (sun)\nSunrise: 2026-02-28T
+ 07:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSunset: 2026
+ -02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.173096-05:
+ 00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:82c12413-f375-523f-8b98-b9a2ad2ca93e@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260301T055634Z
+DTEND:20260301T070005Z
+SUMMARY:Venus — Night Hour 7
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Night\nHour: 7/12\nPlanet: Venus (venus)\nSunrise: 2026-02
+ -28T07:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSunset: 
+ 2026-02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.173096
+ -05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:e7ee8788-cc61-57c0-9a0a-a42fc62997b4@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260301T070005Z
+DTEND:20260301T080336Z
+SUMMARY:Mercury — Night Hour 8
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Night\nHour: 8/12\nPlanet: Mercury (mercury)\nSunrise: 202
+ 6-02-28T07:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSuns
+ et: 2026-02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.17
+ 3096-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:7c819396-3d7c-5467-b74b-41260e40f6c8@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260301T080336Z
+DTEND:20260301T090707Z
+SUMMARY:Moon — Night Hour 9
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Night\nHour: 9/12\nPlanet: Moon (moon)\nSunrise: 2026-02-2
+ 8T07:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSunset: 20
+ 26-02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.173096-0
+ 5:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:91a97372-9e9c-5ab4-b0c4-cf6b8bfa23d5@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260301T090707Z
+DTEND:20260301T101038Z
+SUMMARY:Saturn — Night Hour 10
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Night\nHour: 10/12\nPlanet: Saturn (saturn)\nSunrise: 2026
+ -02-28T07:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSunse
+ t: 2026-02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.173
+ 096-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:df222ff0-aef5-5d32-9f43-2f6bd54452b8@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260301T101038Z
+DTEND:20260301T111409Z
+SUMMARY:Jupiter — Night Hour 11
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Night\nHour: 11/12\nPlanet: Jupiter (jupiter)\nSunrise: 20
+ 26-02-28T07:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSun
+ set: 2026-02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.1
+ 73096-05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+BEGIN:VEVENT
+UID:c1ab94d7-0d0a-5656-aa8c-52c2807746df@chronotes
+DTSTAMP:20260226T000526Z
+DTSTART:20260301T111409Z
+DTEND:20260301T121750Z
+SUMMARY:Mars — Night Hour 12
+DESCRIPTION:City: Indianapolis\, Marion County\, Indiana\, United States\nD
+ ate: 2026-02-28\nDay ruler: Saturn\nSun sign: Pisces\nMoon phase: Waxing G
+ ibbous\nPeriod: Night\nHour: 12/12\nPlanet: Mars (mars)\nSunrise: 2026-02-
+ 28T07:19:18.992550-05:00\nSolar noon: 2026-02-28T12:57:13-05:00\nSunset: 2
+ 026-02-28T18:35:28.158477-05:00\nNext sunrise: 2026-03-01T07:17:50.173096-
+ 05:00
+LOCATION:Indianapolis\, Marion County\, Indiana\, United States
+END:VEVENT
+END:VCALENDAR
+
